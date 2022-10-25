@@ -1,0 +1,2841 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_777341</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>125</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>0.05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>L;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_777341</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>125</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|QGM79379.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>QGM79379</Hit_accession>
+  <Hit_len>141</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>255.758</Hsp_bit-score>
+      <Hsp_score>652</Hsp_score>
+      <Hsp_evalue>2.33645e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKAANPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKA NPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|AID47963.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus (A/Czech Republic/218/2013(H3N2))]</Hit_def>
+  <Hit_accession>AID47963</Hit_accession>
+  <Hit_len>258</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>258.455</Hsp_bit-score>
+      <Hsp_score>659</Hsp_score>
+      <Hsp_evalue>8.22172e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>134</Hsp_hit-from>
+      <Hsp_hit-to>258</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|AEI92025.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus (A/California/VRDL395/2009(mixed))]</Hit_def>
+  <Hit_accession>AEI92025</Hit_accession>
+  <Hit_len>161</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>253.447</Hsp_bit-score>
+      <Hsp_score>646</Hsp_score>
+      <Hsp_evalue>3.23593e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>37</Hsp_hit-from>
+      <Hsp_hit-to>161</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>123</Hsp_identity>
+      <Hsp_positive>124</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMESARPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMME A+PEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|AEX34300.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus (A/DaNang/DN311/2008(H1N1))]</Hit_def>
+  <Hit_accession>AEX34300</Hit_accession>
+  <Hit_len>357</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>258.84</Hsp_bit-score>
+      <Hsp_score>660</Hsp_score>
+      <Hsp_evalue>1.52064e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>233</Hsp_hit-from>
+      <Hsp_hit-to>357</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|QBR85473.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>QBR85473</Hit_accession>
+  <Hit_len>312</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>256.914</Hsp_bit-score>
+      <Hsp_score>655</Hsp_score>
+      <Hsp_evalue>2.12583e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>188</Hsp_hit-from>
+      <Hsp_hit-to>312</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEMSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEE+SFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|AVV32011.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>AVV32011</Hit_accession>
+  <Hit_len>232</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>253.447</Hsp_bit-score>
+      <Hsp_score>646</Hsp_score>
+      <Hsp_evalue>3.78401e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>108</Hsp_hit-from>
+      <Hsp_hit-to>232</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>123</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMESAKPEELSFRGRGVFELSDEKAANPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMME AKPEE+SFRGRGVFELSDEKA NPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gb|ECB1805046.1|</Hit_id>
+  <Hit_def>hypothetical protein [Salmonella enterica subsp. enterica serovar Typhi]</Hit_def>
+  <Hit_accession>ECB1805046</Hit_accession>
+  <Hit_len>125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>247.284</Hsp_bit-score>
+      <Hsp_score>630</Hsp_score>
+      <Hsp_evalue>2.93702e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>122</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>125</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>121</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>122</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEE</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKAANPIVPSFDMSNEGSYFFGDNAEE</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKA NPIVPSFDMSNEGSYFFGDNAEE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gb|AHZ95936.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus (A/Connecticut/Flu037/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHZ95936</Hit_accession>
+  <Hit_len>473</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>258.84</Hsp_bit-score>
+      <Hsp_score>660</Hsp_score>
+      <Hsp_evalue>3.93214e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>349</Hsp_hit-from>
+      <Hsp_hit-to>473</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gb|AHL95012.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/YGA_00004/2012(H3N2))] &gt;gb|ALH25966.1| nucleocapsid protein [Influenza A virus (A/New Hampshire/05/2015(H3N2))] &gt;gb|ALH30953.1| nucleocapsid protein [Influenza A virus (A/Tennessee/23/2014(H3N2))] &gt;gb|ALH33193.1| nucleocapsid protein [Influenza A virus (A/California/09/2015(H3N2))] &gt;gb|ALH33426.1| nucleocapsid protein [Influenza A virus (A/California/08/2015(H3N2))] &gt;gb|APB90912.1| nucleocapsid protein [Influenza A virus (A/Delaware/11/2015(H3N2))] &gt;gb|APB90992.1| nucleocapsid protein [Influenza A virus (A/Nevada/16/2015(H3))] &gt;gb|ATE47891.1| nucleocapsid protein [Influenza A virus (A/Canada/20A/2014(H3N2))] &gt;gb|ATE47901.1| nucleocapsid protein [Influenza A virus (A/Canada/20B/2014(H3N2))] &gt;gb|ATE48031.1| nucleocapsid protein [Influenza A virus (A/Canada/27A/2015(H3N2))] &gt;gb|ATE48041.1| nucleocapsid protein [Influenza A virus (A/Canada/27B/2015(H3N2))] &gt;gb|ATV85460.1| nucleocapsid protein [Influenza A virus (A/Brisbane/20/2015(H3N2))] &gt;gb|ATV85472.1| nucleocapsid protein [Influenza A virus (A/Brisbane/22/2015(H3N2))] &gt;gb|ATV85496.1| nucleocapsid protein [Influenza A virus (A/Brisbane/12/2015(H3N2))]</Hit_def>
+  <Hit_accession>AHL95012</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.61</Hsp_bit-score>
+      <Hsp_score>662</Hsp_score>
+      <Hsp_evalue>4.73838e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gb|ATV83569.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Victoria/346/2012(H3N2))]</Hit_def>
+  <Hit_accession>ATV83569</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>4.78985e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gb|ATV83485.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Victoria/78/2012(H3N2))]</Hit_def>
+  <Hit_accession>ATV83485</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>4.84189e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gb|AGN49984.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Singapore/C2011.512/2011(H3N2))] &gt;gb|AGN50060.1| nucleocapsid protein [Influenza A virus (A/Singapore/C2011.512/2011(H3N2))]</Hit_def>
+  <Hit_accession>AGN49984</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>4.89448e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gb|APB90048.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/South Dakota/19/2014(H3N2))]</Hit_def>
+  <Hit_accession>APB90048</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>4.89448e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gb|ALH33252.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Minnesota/02/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH33252</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.0014e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gb|ALH36491.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/North Carolina/16/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH36491</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.0014e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gb|ALH31859.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Washington/35/2014(H3N2))] &gt;gb|APB89224.1| nucleocapsid protein [Influenza A virus (A/Alaska/60/2014(H3))] &gt;gb|APB89273.1| nucleocapsid protein [Influenza A virus (A/Alaska/53/2014(H3N2))] &gt;gb|APB89308.1| nucleocapsid protein [Influenza A virus (A/Alaska/54/2014(H3N2))] &gt;gb|APB89921.1| nucleocapsid protein [Influenza A virus (A/Alaska/45/2014(H3N2))] &gt;gb|APB90670.1| nucleocapsid protein [Influenza A virus (A/Montana/23/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH31859</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.05572e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gb|AGE89322.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/DOA36/2011(H3N2))]</Hit_def>
+  <Hit_accession>AGE89322</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.11064e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|AMB67232.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Alaska/188/2015(H3N2))] &gt;gb|AMB67455.1| nucleocapsid protein [Influenza A virus (A/Alaska/151/2015(H3N2))] &gt;gb|AMB67467.1| nucleocapsid protein [Influenza A virus (A/Alaska/152/2015(H3N2))] &gt;gb|AMB68725.1| nucleocapsid protein [Influenza A virus (A/Alaska/254/2015(H3N2))] &gt;gb|AMB69070.1| nucleocapsid protein [Influenza A virus (A/Alaska/222/2015(H3N2))] &gt;gb|AMB69281.1| nucleocapsid protein [Influenza A virus (A/Hawaii/58/2015(H3N2))] &gt;gb|AMB69458.1| nucleocapsid protein [Influenza A virus (A/California/85/2015(H3N2))] &gt;gb|AMB69818.1| nucleocapsid protein [Influenza A virus (A/Alaska/225/2015(H3N2))] &gt;gb|AMB70259.1| nucleocapsid protein [Influenza A virus (A/Alaska/212/2015(H3N2))] &gt;gb|AMB70746.1| nucleocapsid protein [Influenza A virus (A/Alaska/246/2015(H3N2))] &gt;gb|AMB70906.1| nucleocapsid protein [Influenza A virus (A/Alaska/218/2015(H3N2))] &gt;gb|ANE26224.1| nucleocapsid protein [Influenza A virus (A/Alaska/128/2015(H3N2))] &gt;gb|ANE26308.1| nucleocapsid protein [Influenza A virus (A/Nebraska/18/2015(H3N2))] &gt;gb|ANE26457.1| nucleocapsid protein [Influenza A virus (A/Alaska/213/2015(H3N2))] &gt;gb|ANM95539.1| nucleocapsid protein [Influenza A virus (A/Alaska/174/2015(H3N2))] &gt;gb|ANM95587.1| nucleocapsid protein [Influenza A virus (A/Alaska/187/2015(H3N2))] &gt;gb|ANM95630.1| nucleocapsid protein [Influenza A virus (A/Alaska/198/2015(H3N2))] &gt;gb|ANM95642.1| nucleocapsid protein [Influenza A virus (A/Alaska/199/2015(H3N2))] &gt;gb|ANM95756.1| nucleocapsid protein [Influenza A virus (A/Alaska/248/2015(H3N2))] &gt;gb|ARR99953.1| nucleocapsid protein [Influenza A virus (A/North Carolina/25/2017(H3N2))]</Hit_def>
+  <Hit_accession>AMB67232</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.11064e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gb|AGE89354.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/DOA41/2011(H3N2))]</Hit_def>
+  <Hit_accession>AGE89354</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.11064e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gb|ALH29714.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/North Carolina/35/2014(H3N2))] &gt;gb|ALH32963.1| nucleocapsid protein [Influenza A virus (A/Hawaii/63/2014(H3N2))] &gt;gb|ALH33139.1| nucleocapsid protein [Influenza A virus (A/Hawaii/63/2014(H3N2))] &gt;gb|ALM05731.1| nucleocapsid protein [Influenza A virus (A/Alaska/21usafsam/2012(H3N2))]</Hit_def>
+  <Hit_accession>ALH29714</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.11064e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gb|AGN49990.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Singapore/C2011.641/2011(H3N2))] &gt;gb|AGN50029.1| nucleocapsid protein [Influenza A virus (A/Singapore/H2011.507/2011(H3N2))] &gt;gb|AIG45337.1| nucleocapsid protein [Influenza A virus (A/Singapore/S2011.611b/2011(H3N2))] &gt;gb|AIG45340.1| nucleocapsid protein [Influenza A virus (A/Singapore/S2011.737/2011(H3N2))] &gt;gb|AIG45345.1| nucleocapsid protein [Influenza A virus (A/Singapore/C2011.860/2011(H3N2))] &gt;gb|AIG45355.1| nucleocapsid protein [Influenza A virus (A/Singapore/C2012.197/2012(H3N2))] &gt;gb|AIG45356.1| nucleocapsid protein [Influenza A virus (A/Singapore/C2012.208/2012(H3N2))] &gt;gb|AJJ98994.1| nucleocapsid protein [Influenza A virus (A/Thailand/PY10316/2011(H3N2))] &gt;gb|AJJ99102.1| nucleocapsid protein [Influenza A virus (A/Thailand/KS10428/2011(H3N2))] &gt;gb|ALM04635.1| nucleocapsid protein [Influenza A virus (A/Philippines/FLU_PHB_0341/2011(H3N2))] &gt;gb|ALM04661.1| nucleocapsid protein [Influenza A virus (A/Jakarta/FLUEJKSV0025/2012(H3N2))] &gt;gb|ALM04775.1| nucleocapsid protein [Influenza A virus (A/Moscow/1514A00505149T/2012(H3N2))] &gt;gb|ALM04776.1| nucleocapsid protein [Influenza A virus (A/Moscow/1514A00505153N/2012(H3N2))] &gt;gb|ALM04777.1| nucleocapsid protein [Influenza A virus (A/Moscow/1514A00505162N/2012(H3N2))] &gt;gb|ALX27867.1| nucleocapsid protein [Influenza A virus (A/Cambodia/V1221301/2011(H3N2))]</Hit_def>
+  <Hit_accession>AGN49990</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.16616e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gb|AHM00906.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Chicago/YGA_04183/2013(H3N2))] &gt;gb|ALX27827.1| nucleocapsid protein [Influenza A virus (A/Cambodia/W1023353/2012(H3N2))] &gt;gb|ATE48241.1| nucleocapsid protein [Influenza A virus (A/Canada/37B/2014(H3N2))] &gt;gb|QBR86229.1| nucleocapsid protein [Influenza A virus]</Hit_def>
+  <Hit_accession>AHM00906</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.16616e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gb|ANN00312.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Utah/21/2016(H3N2))]</Hit_def>
+  <Hit_accession>ANN00312</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.16616e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gb|AHC62510.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER386/2010(H3N2))] &gt;gb|ATV84992.1| nucleocapsid protein [Influenza A virus (A/Victoria/1012/2014(H3N2))]</Hit_def>
+  <Hit_accession>AHC62510</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.16616e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gb|ALH35255.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Kansas/08/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH35255</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.22228e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gb|ALH33323.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Virginia/03/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH33323</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.22228e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|ARH16007.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Delaware/11/2017(H3N2))] &gt;gb|ARH16019.1| nucleocapsid protein [Influenza A virus (A/Delaware/11/2017(H3N2))]</Hit_def>
+  <Hit_accession>ARH16007</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gb|AGV99041.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/DOA2-100/2012(H3N2))]</Hit_def>
+  <Hit_accession>AGV99041</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gb|ANN00564.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Texas/48/2016(H3N2))] &gt;gb|AOZ85324.1| nucleocapsid protein [Influenza A virus (A/Texas/48/2016(H3N2))]</Hit_def>
+  <Hit_accession>ANN00564</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gb|AGW01801.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/DOA2-206/2013(H3N2))]</Hit_def>
+  <Hit_accession>AGW01801</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gb|AIT16597.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Quebec/26-270106/2006(H3N2))]</Hit_def>
+  <Hit_accession>AIT16597</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gb|ALH30153.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Georgia/13/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH30153</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gb|AHZ40181.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Houston/JMM_94/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHZ40181</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gb|APT37765.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Connecticut/36/2016(H3N2))]</Hit_def>
+  <Hit_accession>APT37765</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gb|AIT16594.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Quebec/26-151105/2005(H3N2))] &gt;gb|AIT16598.1| nucleocapsid protein [Influenza A virus (A/Quebec/26-031205/2005(H3N2))]</Hit_def>
+  <Hit_accession>AIT16594</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gb|AIT16600.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Quebec/26-191206/2006(H3N2))]</Hit_def>
+  <Hit_accession>AIT16600</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.27901e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gb|ASU47796.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Nicaragua/5127_12/2014(H3))]</Hit_def>
+  <Hit_accession>ASU47796</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.33635e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|ATU89119.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Texas/71/2017(H3N2))]</Hit_def>
+  <Hit_accession>ATU89119</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.39432e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gb|ATV90273.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Brisbane/1/2017(H3N2))]</Hit_def>
+  <Hit_accession>ATV90273</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.39432e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gb|ANN02122.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Massachusetts/28/2016(H3N2))] &gt;gb|ANN02134.1| nucleocapsid protein [Influenza A virus (A/Massachusetts/28/2016(H3N2))]</Hit_def>
+  <Hit_accession>ANN02122</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.39432e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gb|AOZ84881.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Texas/01/2016(H3N2))]</Hit_def>
+  <Hit_accession>AOZ84881</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.39432e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gb|QBR86553.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus]</Hit_def>
+  <Hit_accession>QBR86553</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.39432e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gb|ALX28950.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Parma/539/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALX28950</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.39432e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gb|ATV87841.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Sydney/1036/2015(H3N2))]</Hit_def>
+  <Hit_accession>ATV87841</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.45291e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gb|ANM96766.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Washington/76/2015(H3N2))]</Hit_def>
+  <Hit_accession>ANM96766</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.45291e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gb|AHL98382.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/YGA_01210/2013(H3N2))] &gt;gb|AIG45349.1| nucleocapsid protein [Influenza A virus (A/Singapore/H2011.907/2011(H3N2))] &gt;gb|AJE63010.1| nucleocapsid protein [Influenza A virus (A/Thailand/CU-B11202/2014(H3N2))] &gt;gb|ALH25209.1| nucleocapsid protein [Influenza A virus (A/Alabama/02/2015(H3N2))] &gt;gb|ALH25230.1| nucleocapsid protein [Influenza A virus (A/Nevada/32/2015(H3N2))] &gt;gb|ALH25242.1| nucleocapsid protein [Influenza A virus (A/Nevada/33/2015(H3N2))] &gt;gb|ALH25285.1| nucleocapsid protein [Influenza A virus (A/Nevada/12/2015(H3N2))] &gt;gb|ALH25306.1| nucleocapsid protein [Influenza A virus (A/Missouri/12/2015(H3N2))] &gt;gb|ALH25314.1| nucleocapsid protein [Influenza A virus (A/South Dakota/22/2015(H3N2))] &gt;gb|ALH25400.1| nucleocapsid protein [Influenza A virus (A/Massachusetts/02/2015(H3N2))] &gt;gb|ALH25522.1| nucleocapsid protein [Influenza A virus (A/Nevada/23/2015(H3N2))] &gt;gb|ALH25548.1| nucleocapsid protein [Influenza A virus (A/West Virginia/07/2015(H3N2))] &gt;gb|ALH25580.1| nucleocapsid protein [Influenza A virus (A/Tennessee/10/2015(H3N2))] &gt;gb|ALH25639.1| nucleocapsid protein [Influenza A virus (A/New Jersey/12/2015(H3N2))] &gt;gb|ALH25703.1| nucleocapsid protein [Influenza A virus (A/Texas/24/2015(H3N2))] &gt;gb|ALH25777.1| nucleocapsid protein [Influenza A virus (A/North Carolina/03/2015(H3N2))] &gt;gb|ALH25884.1| nucleocapsid protein [Influenza A virus (A/West Virginia/06/2015(H3N2))] &gt;gb|ALH25937.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/27/2015(H3N2))] &gt;gb|ALH25956.1| nucleocapsid protein [Influenza A virus (A/North Carolina/02/2015(H3N2))] &gt;gb|ALH26074.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/04/2015(H3N2))] &gt;gb|ALH26102.1| nucleocapsid protein [Influenza A virus (A/Nevada/15/2015(H3N2))] &gt;gb|ALH26126.1| nucleocapsid protein [Influenza A virus (A/West Virginia/02/2015(H3N2))] &gt;gb|ALH26140.1| nucleocapsid protein [Influenza A virus (A/New Hampshire/07/2015(H3N2))] &gt;gb|ALH26141.1| nucleocapsid protein [Influenza A virus (A/Florida/20/2015(H3N2))] &gt;gb|ALH26195.1| nucleocapsid protein [Influenza A virus (A/Washington/01/2015(H3N2))] &gt;gb|ALH26203.1| nucleocapsid protein [Influenza A virus (A/Maryland/02/2015(H3N2))] &gt;gb|ALH26924.1| nucleocapsid protein [Influenza A virus (A/Maryland/26/2014(H3N2))] &gt;gb|ALH26925.1| nucleocapsid protein [Influenza A virus (A/Texas/40/2014(H3N2))] &gt;gb|ALH26954.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/40/2014(H3N2))] &gt;gb|ALH26986.1| nucleocapsid protein [Influenza A virus (A/Michigan/15/2014(H3N2))] &gt;gb|ALH26993.1| nucleocapsid protein [Influenza A virus (A/Michigan/13/2014(H3N2))] &gt;gb|ALH27016.1| nucleocapsid protein [Influenza A virus (A/Michigan/11/2014(H3N2))] &gt;gb|ALH27034.1| nucleocapsid protein [Influenza A virus (A/Michigan/14/2014(H3N2))] &gt;gb|ALH27122.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/44/2014(H3N2))] &gt;gb|ALH27257.1| nucleocapsid protein [Influenza A virus (A/Minnesota/21/2014(H3N2))] &gt;gb|ALH27353.1| nucleocapsid protein [Influenza A virus (A/Hawaii/40/2014(H3N2))] &gt;gb|ALH27385.1| nucleocapsid protein [Influenza A virus (A/North Carolina/24/2014(H3N2))] &gt;gb|ALH27409.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/43/2014(H3N2))] &gt;gb|ALH27508.1| nucleocapsid protein [Influenza A virus (A/Oregon/07/2014(H3N2))] &gt;gb|ALH27672.1| nucleocapsid protein [Influenza A virus (A/Oregon/05/2014(H3N2))] &gt;gb|ALH27939.1| nucleocapsid protein [Influenza A virus (A/Montana/15/2014(H3N2))] &gt;gb|ALH27966.1| nucleocapsid protein [Influenza A virus (A/Kansas/07/2014(H3N2))] &gt;gb|ALH28121.1| nucleocapsid protein [Influenza A virus (A/Texas/38/2014(H3N2))] &gt;gb|ALH28133.1| nucleocapsid protein [Influenza A virus (A/Alaska/47/2014(H3N2))] &gt;gb|ALH28213.1| nucleocapsid protein [Influenza A virus (A/Colorado/15/2014(H3N2))] &gt;gb|ALH28427.1| nucleocapsid protein [Influenza A virus (A/Maryland/28/2014(H3N2))] &gt;gb|ALH28878.1| nucleocapsid protein [Influenza A virus (A/Montana/11/2014(H3N2))] &gt;gb|ALH28884.1| nucleocapsid protein [Influenza A virus (A/North Dakota/06/2014(H3N2))] &gt;gb|ALH28917.1| nucleocapsid protein [Influenza A virus (A/Arkansas/08/2014(H3N2))] &gt;gb|ALH28929.1| nucleocapsid protein [Influenza A virus (A/Colorado/21/2014(H3N2))] &gt;gb|ALH29012.1| nucleocapsid protein [Influenza A virus (A/Oregon/06/2014(H3N2))] &gt;gb|ALH29223.1| nucleocapsid protein [Influenza A virus (A/Minnesota/41/2014(H3N2))] &gt;gb|ALH29568.1| nucleocapsid protein [Influenza A virus (A/Virginia/26/2014(H3N2))] &gt;gb|ALH29708.1| nucleocapsid protein [Influenza A virus (A/Minnesota/37/2014(H3N2))] &gt;gb|ALH29773.1| nucleocapsid protein [Influenza A virus (A/Ohio/14/2014(H3N2))] &gt;gb|ALH29973.1| nucleocapsid protein [Influenza A virus (A/New Jersey/26/2014(H3N2))] &gt;gb|ALH30113.1| nucleocapsid protein [Influenza A virus (A/Colorado/25/2014(H3N2))] &gt;gb|ALH30134.1| nucleocapsid protein [Influenza A virus (A/North Carolina/33/2014(H3N2))] &gt;gb|ALH30361.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/48/2014(H3N2))] &gt;gb|ALH30538.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/49/2014(H3N2))] &gt;gb|ALH30630.1| nucleocapsid protein [Influenza A virus (A/New Hampshire/32/2014(H3N2))] &gt;gb|ALH30672.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/60/2014(H3N2))] &gt;gb|ALH30724.1| nucleocapsid protein [Influenza A virus (A/Massachusetts/17/2014(H3N2))] &gt;gb|ALH30731.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/59/2014(H3N2))] &gt;gb|ALH30758.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/58/2014(H3N2))] &gt;gb|ALH30808.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/57/2014(H3N2))] &gt;gb|ALH30846.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/56/2014(H3N2))] &gt;gb|ALH30881.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/52/2014(H3N2))] &gt;gb|ALH30918.1| nucleocapsid protein [Influenza A virus (A/Minnesota/38/2014(H3N2))] &gt;gb|ALH30920.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/55/2014(H3N2))] &gt;gb|ALH30960.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/65/2014(H3N2))] &gt;gb|ALH30976.1| nucleocapsid protein [Influenza A virus (A/Illinois/11/2014(H3N2))] &gt;gb|ALH31057.1| nucleocapsid protein [Influenza A virus (A/California/40/2014(H3N2))] &gt;gb|ALH31106.1| nucleocapsid protein [Influenza A virus (A/Kentucky/30/2014(H3N2))] &gt;gb|ALH31320.1| nucleocapsid protein [Influenza A virus (A/Virginia/29/2014(H3N2))] &gt;gb|ALH31576.1| nucleocapsid protein [Influenza A virus (A/Tennessee/17/2014(H3N2))] &gt;gb|ALH31578.1| nucleocapsid protein [Influenza A virus (A/Indiana/25/2014(H3N2))] &gt;gb|ALH31632.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/56/2014(H3N2))] &gt;gb|ALH31642.1| nucleocapsid protein [Influenza A virus (A/Missouri/16/2014(H3N2))] &gt;gb|ALH31708.1| nucleocapsid protein [Influenza A virus (A/Texas/80/2014(H3N2))] &gt;gb|ALH31724.1| nucleocapsid protein [Influenza A virus (A/Illinois/12/2014(H3N2))] &gt;gb|ALH31725.1| nucleocapsid protein [Influenza A virus (A/Washington/44/2014(H3N2))] &gt;gb|ALH31754.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/55/2014(H3N2))] &gt;gb|ALH31801.1| nucleocapsid protein [Influenza A virus (A/Minnesota/39/2014(H3N2))] &gt;gb|ALH31808.1| nucleocapsid protein [Influenza A virus (A/Washington/42/2014(H3N2))] &gt;gb|ALH31903.1| nucleocapsid protein [Influenza A virus (A/Kansas/12/2014(H3N2))] &gt;gb|ALH31931.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/67/2014(H3N2))] &gt;gb|ALH31944.1| nucleocapsid protein [Influenza A virus (A/Rhode Island/23/2014(H3N2))] &gt;gb|ALH32026.1| nucleocapsid protein [Influenza A virus (A/Kentucky/27/2014(H3N2))] &gt;gb|ALH32069.1| nucleocapsid protein [Influenza A virus (A/District Of Columbia/05/2014(H3N2))] &gt;gb|ALH32091.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/75/2014(H3N2))] &gt;gb|ALH32149.1| nucleocapsid protein [Influenza A virus (A/Kentucky/24/2014(H3N2))] &gt;gb|ALH32151.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/72/2014(H3N2))] &gt;gb|ALH32261.1| nucleocapsid protein [Influenza A virus (A/Washington/57/2014(H3N2))] &gt;gb|ALH32296.1| nucleocapsid protein [Influenza A virus (A/Washington/47/2014(H3N2))] &gt;gb|ALH32313.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/68/2014(H3N2))] &gt;gb|ALH32382.1| nucleocapsid protein [Influenza A virus (A/Massachusetts/27/2014(H3N2))] &gt;gb|ALH32405.1| nucleocapsid protein [Influenza A virus (A/Vermont/10/2014(H3N2))] &gt;gb|ALH32408.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/64/2014(H3N2))] &gt;gb|ALH32431.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/69/2014(H3N2))] &gt;gb|ALH32432.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/63/2014(H3N2))] &gt;gb|ALH32439.1| nucleocapsid protein [Influenza A virus (A/Virginia/30/2014(H3N2))] &gt;gb|ALH32530.1| nucleocapsid protein [Influenza A virus (A/Georgia/45/2014(H3N2))] &gt;gb|ALH32531.1| nucleocapsid protein [Influenza A virus (A/Idaho/09/2014(H3N2))] &gt;gb|ALH32624.1| nucleocapsid protein [Influenza A virus (A/Virginia/31/2014(H3N2))] &gt;gb|ALH32742.1| nucleocapsid protein [Influenza A virus (A/Virginia/35/2014(H3N2))] &gt;gb|ALH32903.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/60/2014(H3N2))] &gt;gb|ALH32932.1| nucleocapsid protein [Influenza A virus (A/Massachusetts/22/2014(H3N2))] &gt;gb|ALH32964.1| nucleocapsid protein [Influenza A virus (A/Maryland/53/2014(H3N2))] &gt;gb|ALH32985.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/54/2014(H3N2))] &gt;gb|ALH33088.1| nucleocapsid protein [Influenza A virus (A/Idaho/10/2014(H3N2))] &gt;gb|ALH33143.1| nucleocapsid protein [Influenza A virus (A/Missouri/21/2014(H3N2))] &gt;gb|ALH33209.1| nucleocapsid protein [Influenza A virus (A/Michigan/05/2015(H3N2))] &gt;gb|ALH33231.1| nucleocapsid protein [Influenza A virus (A/Iowa/04/2015(H3N2))] &gt;gb|ALH33299.1| nucleocapsid protein [Influenza A virus (A/New Mexico/01/2015(H3N2))] &gt;gb|ALH33316.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/08/2015(H3N2))] &gt;gb|ALH33333.1| nucleocapsid protein [Influenza A virus (A/North Carolina/05/2015(H3N2))] &gt;gb|ALH33341.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/10/2015(H3N2))] &gt;gb|ALH33389.1| nucleocapsid protein [Influenza A virus (A/Michigan/02/2015(H3N2))] &gt;gb|ALH33410.1| nucleocapsid protein [Influenza A virus (A/Michigan/03/2015(H3N2))] &gt;gb|ALH33433.1| nucleocapsid protein [Influenza A virus (A/Washington/02/2015(H3N2))] &gt;gb|ALH33450.1| nucleocapsid protein [Influenza A virus (A/Georgia/05/2015(H3N2))] &gt;gb|ALH33467.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/09/2015(H3N2))] &gt;gb|ALH33572.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/01/2015(H3N2))] &gt;gb|ALH33594.1| nucleocapsid protein [Influenza A virus (A/Texas/02/2015(H3N2))] &gt;gb|ALH33651.1| nucleocapsid protein [Influenza A virus (A/Florida/11/2015(H3N2))] &gt;gb|ALH33669.1| nucleocapsid protein [Influenza A virus (A/Delaware/01/2015(H3N2))] &gt;gb|ALH33835.1| nucleocapsid protein [Influenza A virus (A/Rhode Island/02/2015(H3N2))] &gt;gb|ALH33854.1| nucleocapsid protein [Influenza A virus (A/Missouri/01/2015(H3N2))] &gt;gb|ALH33892.1| nucleocapsid protein [Influenza A virus (A/Michigan/04/2015(H3N2))] &gt;gb|ALH34145.1| nucleocapsid protein [Influenza A virus (A/Florida/10/2015(H3N2))] &gt;gb|ALH34209.1| nucleocapsid protein [Influenza A virus (A/Kentucky/01/2015(H3N2))] &gt;gb|ALH34264.1| nucleocapsid protein [Influenza A virus (A/Wyoming/01/2015(H3N2))] &gt;gb|ALH34358.1| nucleocapsid protein [Influenza A virus (A/Nevada/03/2015(H3N2))] &gt;gb|ALH34429.1| nucleocapsid protein [Influenza A virus (A/Colorado/04/2015(H3N2))] &gt;gb|ALH34454.1| nucleocapsid protein [Influenza A virus (A/South Dakota/01/2015(H3N2))] &gt;gb|ALH34479.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/06/2015(H3N2))] &gt;gb|ALH34486.1| nucleocapsid protein [Influenza A virus (A/Georgia/03/2015(H3N2))] &gt;gb|ALH34554.1| nucleocapsid protein [Influenza A virus (A/New York/16/2015(H3N2))] &gt;gb|ALH34627.1| nucleocapsid protein [Influenza A virus (A/New York/15/2015(H3N2))] &gt;gb|ALH34784.1| nucleocapsid protein [Influenza A virus (A/California/73/2015(H3N2))] &gt;gb|ALH34989.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/08/2015(H3N2))] &gt;gb|ALH35080.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/15/2015(H3N2))] &gt;gb|ALH35109.1| nucleocapsid protein [Influenza A virus (A/Missouri/06/2015(H3N2))] &gt;gb|ALH35143.1| nucleocapsid protein [Influenza A virus (A/Nevada/18/2015(H3N2))] &gt;gb|ALH35166.1| nucleocapsid protein [Influenza A virus (A/Washington/05/2015(H3N2))] &gt;gb|ALH35173.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/14/2015(H3N2))] &gt;gb|ALH35254.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/13/2015(H3N2))] &gt;gb|ALH35265.1| nucleocapsid protein [Influenza A virus (A/New Mexico/06/2015(H3N2))] &gt;gb|ALH35292.1| nucleocapsid protein [Influenza A virus (A/Kentucky/11/2015(H3N2))] &gt;gb|ALH35304.1| nucleocapsid protein [Influenza A virus (A/California/16/2015(H3N2))] &gt;gb|ALH35369.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/23/2015(H3N2))] &gt;gb|ALH35387.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/09/2015(H3N2))] &gt;gb|ALH35550.1| nucleocapsid protein [Influenza A virus (A/South Dakota/14/2015(H3N2))] &gt;gb|ALH35571.1| nucleocapsid protein [Influenza A virus (A/Washington/12/2015(H3N2))] &gt;gb|ALH35628.1| nucleocapsid protein [Influenza A virus (A/South Dakota/30/2015(H3N2))] &gt;gb|ALH35736.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/24/2015(H3N2))] &gt;gb|ALH35816.1| nucleocapsid protein [Influenza A virus (A/Florida/27/2015(H3N2))] &gt;gb|ALH35853.1| nucleocapsid protein [Influenza A virus (A/Kansas/04/2015(H3N2))] &gt;gb|ALH35910.1| nucleocapsid protein [Influenza A virus (A/Washington/33/2015(H3N2))] &gt;gb|ALH35985.1| nucleocapsid protein [Influenza A virus (A/Iowa/14/2015(H3N2))] &gt;gb|ALH36054.1| nucleocapsid protein [Influenza A virus (A/Maine/17/2015(H3N2))] &gt;gb|ALH36423.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/21/2015(H3N2))] &gt;gb|ALH36425.1| nucleocapsid protein [Influenza A virus (A/South Dakota/11/2015(H3N2))] &gt;gb|ALH36464.1| nucleocapsid protein [Influenza A virus (A/North Carolina/15/2015(H3N2))] &gt;gb|ALH36494.1| nucleocapsid protein [Influenza A virus (A/South Dakota/15/2015(H3N2))] &gt;gb|ALH36500.1| nucleocapsid protein [Influenza A virus (A/New Hampshire/16/2015(H3N2))] &gt;gb|ALH36525.1| nucleocapsid protein [Influenza A virus (A/South Dakota/12/2015(H3N2))] &gt;gb|ALH36592.1| nucleocapsid protein [Influenza A virus (A/Alaska/09/2015(H3N2))] &gt;gb|ALH36747.1| nucleocapsid protein [Influenza A virus (A/Alaska/10/2015(H3N2))] &gt;gb|ALH36763.1| nucleocapsid protein [Influenza A virus (A/Minnesota/26/2015(H3N2))] &gt;gb|ALH36765.1| nucleocapsid protein [Influenza A virus (A/Florida/45/2015(H3N2))] &gt;gb|ALM04644.1| nucleocapsid protein [Influenza A virus (A/Bangkok/FLU_PMKA0967_CP3/2010(H3N2))] &gt;gb|AMU04538.1| nucleocapsid protein [Influenza A virus (A/DC/1/2014(H3N2))] &gt;gb|ANM97600.1| nucleocapsid protein [Influenza A virus (A/Minnesota/51/2015(H3N2))] &gt;gb|ANM97624.1| nucleocapsid protein [Influenza A virus (A/Minnesota/52/2015(H3N2))] &gt;gb|ANM97804.1| nucleocapsid protein [Influenza A virus (A/Minnesota/54/2015(H3N2))] &gt;gb|ANM97936.1| nucleocapsid protein [Influenza A virus (A/Arizona/43/2015(H3N2))] &gt;gb|ANM99196.1| nucleocapsid protein [Influenza A virus (A/Minnesota/61/2015(H3N2))] &gt;gb|AOV82404.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-050/2015(H3))] &gt;gb|AOV82699.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-005/2015(H3N2))] &gt;gb|AOV82711.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-006/2015(H3N2))] &gt;gb|AOV82879.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-14-092/2014(H3N2))] &gt;gb|AOV82891.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-14-093/2014(H3N2))] &gt;gb|AOV82927.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-017/2015(H3N2))] &gt;gb|AOV83047.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-029/2015(H3N2))] &gt;gb|AOV83119.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-037/2015(H3N2))] &gt;gb|AOV83131.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-038/2015(H3N2))] &gt;gb|AOV83203.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-044/2015(H3N2))] &gt;gb|AOV83359.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-14-102/2014(H3N2))] &gt;gb|AOV83371.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-15-052/2015(H3N2))] &gt;gb|APB89212.1| nucleocapsid protein [Influenza A virus (A/Iowa/28/2014(H3N2))] &gt;gb|APB89259.1| nucleocapsid protein [Influenza A virus (A/District Of Columbia/09/2014(H3N2))] &gt;gb|APB89311.1| nucleocapsid protein [Influenza A virus (A/Vermont/13/2014(H3N2))] &gt;gb|APB89333.1| nucleocapsid protein [Influenza A virus (A/Vermont/01/2015(H3N2))] &gt;gb|APB89484.1| nucleocapsid protein [Influenza A virus (A/North Carolina/01/2015(H3N2))] &gt;gb|APB89507.1| nucleocapsid protein [Influenza A virus (A/Iowa/08/2015(H3N2))] &gt;gb|APB89603.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/31/2015(H3N2))] &gt;gb|APB89617.1| nucleocapsid protein [Influenza A virus (A/Minnesota/08/2015(H3))] &gt;gb|APB89701.1| nucleocapsid protein [Influenza A virus (A/Hawaii/19/2015(H3N2))] &gt;gb|APB89736.1| nucleocapsid protein [Influenza A virus (A/South Carolina/04/2014(H3))] &gt;gb|APB89750.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/73/2014(H3N2))] &gt;gb|APB89753.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/74/2014(H3))] &gt;gb|APB89774.1| nucleocapsid protein [Influenza A virus (A/Michigan/01/2015(H3N2))] &gt;gb|APB89920.1| nucleocapsid protein [Influenza A virus (A/Alaska/50/2014(H3N2))] &gt;gb|APB89950.1| nucleocapsid protein [Influenza A virus (A/Kentucky/29/2014(H3N2))] &gt;gb|APB89966.1| nucleocapsid protein [Influenza A virus (A/Alaska/49/2014(H3N2))] &gt;gb|APB89981.1| nucleocapsid protein [Influenza A virus (A/Wisconsin/04/2015(H3N2))] &gt;gb|APB90144.1| nucleocapsid protein [Influenza A virus (A/Iowa/10/2015(H3))] &gt;gb|APB90220.1| nucleocapsid protein [Influenza A virus (A/Kentucky/12/2014(H3N2))] &gt;gb|APB90316.1| nucleocapsid protein [Influenza A virus (A/Montana/09/2014(H3N2))] &gt;gb|APB90322.1| nucleocapsid protein [Influenza A virus (A/Rhode Island/14/2015(H3N2))] &gt;gb|APB90329.1| nucleocapsid protein [Influenza A virus (A/Washington/24/2015(H3N2))] &gt;gb|APB90406.1| nucleocapsid protein [Influenza A virus (A/North Dakota/05/2014(H3N2))] &gt;gb|APB90534.1| nucleocapsid protein [Influenza A virus (A/South Dakota/09/2015(H3))] &gt;gb|APB90581.1| nucleocapsid protein [Influenza A virus (A/Washington/38/2014(H3N2))] &gt;gb|APB90600.1| nucleocapsid protein [Influenza A virus (A/Iowa/22/2014(H3))] &gt;gb|APB90644.1| nucleocapsid protein [Influenza A virus (A/Alaska/57/2014(H3))] &gt;gb|APB90718.1| nucleocapsid protein [Influenza A virus (A/Virginia/28/2014(H3N2))] &gt;gb|APB90889.1| nucleocapsid protein [Influenza A virus (A/Delaware/04/2015(H3N2))] &gt;gb|APB90933.1| nucleocapsid protein [Influenza A virus (A/North Carolina/12/2015(H3N2))] &gt;gb|APB90969.1| nucleocapsid protein [Influenza A virus (A/Washington/51/2014(H3N2))] &gt;gb|APB91042.1| nucleocapsid protein [Influenza A virus (A/Alaska/59/2014(H3N2))] &gt;gb|APB91226.1| nucleocapsid protein [Influenza A virus (A/Hawaii/22/2015(H3N2))] &gt;gb|APC60154.1| nucleocapsid protein [Influenza A virus (A/Virginia/51/2014(H3N2))] &gt;gb|APC60209.1| nucleocapsid protein [Influenza A virus (A/Qinghai/178/2010(H3N2))] &gt;gb|AQN74471.1| nucleocapsid protein [Influenza A virus (A/Columbia/P0083/2014(H3N2))] &gt;gb|AQN74554.1| nucleocapsid protein [Influenza A virus (A/Bethesda/P0054/2015(H3N2))] &gt;gb|AQN74708.1| nucleocapsid protein [Influenza A virus (A/Baltimore/P0004/2014(H3N2))] &gt;gb|AQN74899.1| nucleocapsid protein [Influenza A virus (A/Bethesda/P0028/2015(H3N2))] &gt;gb|AQN75067.1| nucleocapsid protein [Influenza A virus (A/Bethesda/P0060/2015(H3N2))] &gt;gb|AQW43234.1| nucleocapsid protein [Influenza A virus (A/Bethesda/P0038/2015(H3N2))] &gt;gb|AQW43398.1| nucleocapsid protein [Influenza A virus (A/Baltimore/P0005/2015(H3N2))] &gt;gb|ASU47388.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/2298_10/2014(H3))] &gt;gb|ASU47785.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6206_06/2014(H3N2))] &gt;gb|ASU47927.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6127_06/2014(H3N2))] &gt;gb|ASU47939.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6585_04/2014(H3N2))] &gt;gb|ASU47987.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6530_19/2014(H3N2))] &gt;gb|ASU47999.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6200_06/2014(H3N2))] &gt;gb|ASU48011.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6024_04/2014(H3N2))] &gt;gb|ASU48023.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6275_07/2014(H3N2))] &gt;gb|ASU48035.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6302_05/2014(H3N2))] &gt;gb|ASU48047.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6597_07/2014(H3N2))] &gt;gb|ASU48059.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/5920_08/2014(H3N2))] &gt;gb|ASU48071.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/7945_05/2014(H3N2))] &gt;gb|ASU48083.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6219_07/2014(H3N2))] &gt;gb|ASU48095.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6445_03/2014(H3N2))] &gt;gb|ASU48131.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/5627_04/2014(H3N2))] &gt;gb|ASU48143.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/4877_07/2014(H3N2))] &gt;gb|ASU48155.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/7487_12/2014(H3N2))] &gt;gb|ASU48179.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/7596_05/2014(H3N2))] &gt;gb|ASU48203.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6826_06/2014(H3N2))] &gt;gb|ASU48215.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/7460_02/2014(H3N2))] &gt;gb|ASU48227.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/5359_04/2014(H3N2))] &gt;gb|ASU48239.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/5861_04/2014(H3N2))] &gt;gb|ASU48263.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/5298_04/2014(H3N2))] &gt;gb|ASU48275.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/8020_05/2014(H3N2))] &gt;gb|ASU48287.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/6866_14/2014(H3N2))] &gt;gb|ATE47791.1| nucleocapsid protein [Influenza A virus (A/Canada/16A/2014(H3N2))] &gt;gb|ATE47801.1| nucleocapsid protein [Influenza A virus (A/Canada/16B/2014(H3N2))] &gt;gb|ATE47871.1| nucleocapsid protein [Influenza A virus (A/Canada/1A/2014(H3N2))] &gt;gb|ATE47881.1| nucleocapsid protein [Influenza A virus (A/Canada/1B/2014(H3N2))] &gt;gb|ATE48171.1| nucleocapsid protein [Influenza A virus (A/Canada/34A/2014(H3N2))] &gt;gb|ATE48181.1| nucleocapsid protein [Influenza A virus (A/Canada/34B/2014(H3N2))] &gt;gb|ATV85316.1| nucleocapsid protein [Influenza A virus (A/Victoria/901/2015(H3N2))] &gt;gb|ATV85952.1| nucleocapsid protein [Influenza A virus (A/Victoria/511/2015(H3N2))] &gt;gb|ATV86168.1| nucleocapsid protein [Influenza A virus (A/Victoria/4/2015(H3N2))] &gt;gb|ATV86180.1| nucleocapsid protein [Influenza A virus (A/Victoria/7/2015(H3N2))] &gt;gb|ATV86252.1| nucleocapsid protein [Influenza A virus (A/Victoria/5/2015(H3N2))] &gt;gb|ATV86300.1| nucleocapsid protein [Influenza A virus (A/South Australia/79/2015(H3N2))] &gt;gb|ATV86341.1| nucleocapsid protein [Influenza A virus (A/South Australia/1005/2015(H3N2))] &gt;gb|ATV86413.1| nucleocapsid protein [Influenza A virus (A/Victoria/519/2015(H3N2))] &gt;gb|ATV86677.1| nucleocapsid protein [Influenza A virus (A/Victoria/837/2015(H3N2))] &gt;gb|ATV86737.1| nucleocapsid protein [Influenza A virus (A/Victoria/853/2015(H3N2))] &gt;gb|ATV86821.1| nucleocapsid protein [Influenza A virus (A/South Australia/1014/2015(H3N2))] &gt;gb|ATV87121.1| nucleocapsid protein [Influenza A virus (A/Sydney/1011/2015(H3N2))] &gt;gb|ATV87145.1| nucleocapsid protein [Influenza A virus (A/South Australia/1018/2015(H3N2))] &gt;gb|ATV87193.1| nucleocapsid protein [Influenza A virus (A/South Australia/1021/2015(H3N2))] &gt;gb|ATV87217.1| nucleocapsid protein [Influenza A virus (A/Sydney/1024/2015(H3N2))] &gt;gb|ATV87229.1| nucleocapsid protein [Influenza A virus (A/South Australia/1023/2015(H3N2))] &gt;gb|ATV87277.1| nucleocapsid protein [Influenza A virus (A/Victoria/48/2015(H3N2))] &gt;gb|ATV87409.1| nucleocapsid protein [Influenza A virus (A/South Australia/1017/2015(H3N2))] &gt;gb|ATV87541.1| nucleocapsid protein [Influenza A virus (A/Victoria/3036/2015(H3N2))] &gt;gb|ATV87685.1| nucleocapsid protein [Influenza A virus (A/Victoria/3085/2015(H3N2))] &gt;gb|ATV87721.1| nucleocapsid protein [Influenza A virus (A/South Australia/133/2015(H3N2))] &gt;gb|ATV87769.1| nucleocapsid protein [Influenza A virus (A/South Australia/135/2015(H3N2))] &gt;gb|ATV87817.1| nucleocapsid protein [Influenza A virus (A/South Australia/139/2015(H3N2))] &gt;gb|ATV87901.1| nucleocapsid protein [Influenza A virus (A/South Australia/145/2015(H3N2))] &gt;gb|ATV87925.1| nucleocapsid protein [Influenza A virus (A/Darwin/1000/2015(H3N2))] &gt;gb|ATV87985.1| nucleocapsid protein [Influenza A virus (A/South Australia/163/2015(H3N2))] &gt;gb|ATV88009.1| nucleocapsid protein [Influenza A virus (A/South Australia/167/2015(H3N2))] &gt;gb|ATV88033.1| nucleocapsid protein [Influenza A virus (A/South Australia/1038/2015(H3N2))] &gt;gb|ATV88045.1| nucleocapsid protein [Influenza A virus (A/South Australia/166/2015(H3N2))] &gt;gb|ATV88081.1| nucleocapsid protein [Influenza A virus (A/Brisbane/179/2015(H3N2))] &gt;gb|ATV88093.1| nucleocapsid protein [Influenza A virus (A/Sydney/223/2015(H3N2))] &gt;gb|ATY52878.1| nucleocapsid protein [Influenza A virus (A/Nicaragua/4993_07/2014(H3N2))] &gt;gb|QBM25956.1| nucleocapsid protein [Influenza A virus]</Hit_def>
+  <Hit_accession>AHL98382</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.51215e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gb|QEP30679.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>QEP30679</Hit_accession>
+  <Hit_len>488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>258.84</Hsp_bit-score>
+      <Hsp_score>660</Hsp_score>
+      <Hsp_evalue>5.55436e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>364</Hsp_hit-from>
+      <Hsp_hit-to>488</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gb|ALX28971.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Parma/40/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALX28971</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gb|ALH29704.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Wisconsin/64/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH29704</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gb|ANM97552.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/California/113/2015(H3N2))]</Hit_def>
+  <Hit_accession>ANM97552</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gb|AHC61311.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER281/2011(H3N2))]</Hit_def>
+  <Hit_accession>AHC61311</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gb|ALH30759.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Kentucky/15/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH30759</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gb|AHZ95925.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Connecticut/Flu017/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHZ95925</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gb|ANM99364.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/New York/18/2016(H3N2))] &gt;gb|AOT90072.1| nucleocapsid protein [Influenza A virus (A/New York/25/2016(H3N2))] &gt;gb|AOT90084.1| nucleocapsid protein [Influenza A virus (A/New York/26/2016(H3N2))] &gt;gb|AOW44654.1| nucleocapsid protein [Influenza A virus (A/New York/18/2016(H3N2))]</Hit_def>
+  <Hit_accession>ANM99364</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gb|AHC57463.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER249/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHC57463</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gb|ALH28938.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Wyoming/08/2014(H3N2))] &gt;gb|ALH29324.1| nucleocapsid protein [Influenza A virus (A/Hawaii/60/2014(H3N2))] &gt;gb|ALH29337.1| nucleocapsid protein [Influenza A virus (A/Wyoming/17/2014(H3N2))] &gt;gb|ALH29627.1| nucleocapsid protein [Influenza A virus (A/Wyoming/15/2014(H3N2))] &gt;gb|ALH29635.1| nucleocapsid protein [Influenza A virus (A/Wyoming/11/2014(H3N2))] &gt;gb|ALH29925.1| nucleocapsid protein [Influenza A virus (A/Wyoming/14/2014(H3N2))] &gt;gb|APB90069.1| nucleocapsid protein [Influenza A virus (A/Wyoming/12/2014(H3N2))] &gt;gb|APB91072.1| nucleocapsid protein [Influenza A virus (A/West Virginia/04/2015(H3N2))] &gt;gb|APB91259.1| nucleocapsid protein [Influenza A virus (A/Wyoming/10/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH28938</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gb|AFJ77917.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Malaysia/29350/2004(H3N2))]</Hit_def>
+  <Hit_accession>AFJ77917</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gb|AHL90522.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/New York/1141/2008(H3N2))] &gt;gb|AHZ40253.1| nucleocapsid protein [Influenza A virus (A/Houston/JMM_101/2013(H3N2))] &gt;gb|AJJ98874.1| nucleocapsid protein [Influenza A virus (A/Thailand/MR07159/2008(H3N2))] &gt;gb|ALH31828.1| nucleocapsid protein [Influenza A virus (A/Georgia/30/2014(H3N2))] &gt;gb|AQZ37676.1| nucleocapsid protein [Influenza A virus (A/Alaska/06/2017(H3N2))]</Hit_def>
+  <Hit_accession>AHL90522</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gb|AHL99980.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Chicago/YGA_04008/2012(H3N2))] &gt;gb|AHL99992.1| nucleocapsid protein [Influenza A virus (A/Chicago/YGA_04009/2012(H3N2))] &gt;gb|AHM00041.1| nucleocapsid protein [Influenza A virus (A/Chicago/YGA_04013/2012(H3N2))] &gt;gb|AHM00160.1| nucleocapsid protein [Influenza A virus (A/Chicago/YGA_04038/2012(H3N2))] &gt;gb|ALH28338.1| nucleocapsid protein [Influenza A virus (A/Florida/36/2014(H3N2))] &gt;gb|ANE25702.1| nucleocapsid protein [Influenza A virus (A/South Dakota/40/2015(H3N2))]</Hit_def>
+  <Hit_accession>AHL99980</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gb|ALH25840.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Missouri/09/2015(H3N2))] &gt;gb|ALH26171.1| nucleocapsid protein [Influenza A virus (A/Missouri/11/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH25840</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gb|ANM96514.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Nevada/03/2016(H3N2))]</Hit_def>
+  <Hit_accession>ANM96514</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gb|AHC57469.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER261/2010(H3N2))] &gt;gb|AHC57831.1| nucleocapsid protein [Influenza A virus (A/Peru/PER009/2010(H3N2))] &gt;gb|AHC57972.1| nucleocapsid protein [Influenza A virus (A/Peru/PER011/2010(H3N2))] &gt;gb|AHC58238.1| nucleocapsid protein [Influenza A virus (A/Peru/PER032/2010(H3N2))] &gt;gb|AHC59117.1| nucleocapsid protein [Influenza A virus (A/Peru/PER094/2010(H3N2))] &gt;gb|AHC59297.1| nucleocapsid protein [Influenza A virus (A/Peru/PER109/2010(H3N2))] &gt;gb|AHC59417.1| nucleocapsid protein [Influenza A virus (A/Peru/PER119/2010(H3N2))] &gt;gb|AHC59489.1| nucleocapsid protein [Influenza A virus (A/Peru/PER125/2010(H3N2))] &gt;gb|AHC59549.1| nucleocapsid protein [Influenza A virus (A/Peru/PER131/2010(H3N2))] &gt;gb|AHC59633.1| nucleocapsid protein [Influenza A virus (A/Peru/PER138/2010(H3N2))] &gt;gb|AHC59943.1| nucleocapsid protein [Influenza A virus (A/Peru/PER164/2010(H3N2))] &gt;gb|AHC60135.1| nucleocapsid protein [Influenza A virus (A/Peru/PER180/2010(H3N2))] &gt;gb|AHC60399.1| nucleocapsid protein [Influenza A virus (A/Peru/PER202/2010(H3N2))] &gt;gb|AHC60519.1| nucleocapsid protein [Influenza A virus (A/Peru/PER212/2010(H3N2))] &gt;gb|AHC60543.1| nucleocapsid protein [Influenza A virus (A/Peru/PER214/2010(H3N2))] &gt;gb|AHC60735.1| nucleocapsid protein [Influenza A virus (A/Peru/PER230/2010(H3N2))] &gt;gb|AHC60855.1| nucleocapsid protein [Influenza A virus (A/Peru/PER241/2010(H3N2))] &gt;gb|AHC60951.1| nucleocapsid protein [Influenza A virus (A/Peru/PER250/2010(H3N2))] &gt;gb|AHC61275.1| nucleocapsid protein [Influenza A virus (A/Peru/PER278/2010(H3N2))] &gt;gb|AHC61899.1| nucleocapsid protein [Influenza A virus (A/Peru/PER332/2010(H3N2))] &gt;gb|AHC61995.1| nucleocapsid protein [Influenza A virus (A/Peru/PER340/2010(H3N2))] &gt;gb|AHC62222.1| nucleocapsid protein [Influenza A virus (A/Peru/PER360/2010(H3N2))] &gt;gb|AHC62294.1| nucleocapsid protein [Influenza A virus (A/Peru/PER367/2010(H3N2))]</Hit_def>
+  <Hit_accession>AHC57469</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gb|AIG45327.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Singapore/C2010.721/2010(H3N2))] &gt;gb|ATV84212.1| nucleocapsid protein [Influenza A virus (A/South Australia/29/2013(H3N2))]</Hit_def>
+  <Hit_accession>AIG45327</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>gb|AHL80712.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Tennessee/F1026/2010(H3N2))] &gt;gb|AHL81087.1| nucleocapsid protein [Influenza A virus (A/Tennessee/F2031A/2011(H3N2))]</Hit_def>
+  <Hit_accession>AHL80712</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.57202e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gb|AHL97797.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/YGA_01158/2013(H3N2))]</Hit_def>
+  <Hit_accession>AHL97797</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.63255e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gb|AJE62972.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Thailand/CU-H3141/2012(H3N2))] &gt;gb|ALM04660.1| nucleocapsid protein [Influenza A virus (A/Jakarta/FLUEJKSV0024/2012(H3N2))] &gt;gb|ALM05736.1| nucleocapsid protein [Influenza A virus (A/Japan/26/2012(H3N2))] &gt;gb|ATV83234.1| nucleocapsid protein [Influenza A virus (A/Brisbane/14/2012(H3N2))] &gt;gb|ATV83401.1| nucleocapsid protein [Influenza A virus (A/Victoria/27/2012(H3N2))] &gt;gb|ATV83425.1| nucleocapsid protein [Influenza A virus (A/Canberra/5/2012(H3N2))] &gt;gb|ATV83557.1| nucleocapsid protein [Influenza A virus (A/Victoria/87/2012(H3N2))] &gt;gb|ATV83649.1| nucleocapsid protein [Influenza A virus (A/Sydney/1002/2012(H3N2))] &gt;gb|ATV83685.1| nucleocapsid protein [Influenza A virus (A/Brisbane/61/2012(H3N2))] &gt;gb|ATV83913.1| nucleocapsid protein [Influenza A virus (A/Victoria/173/2012(H3N2))] &gt;gb|ATV83925.1| nucleocapsid protein [Influenza A virus (A/Victoria/175/2012(H3N2))] &gt;gb|ATV84068.1| nucleocapsid protein [Influenza A virus (A/Perth/296/2012(H3N2))]</Hit_def>
+  <Hit_accession>AJE62972</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>gb|ARI68590.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Canoas/LACENRS-1212/2013(H3N2))] &gt;gb|ARO44281.1| nucleocapsid protein [Influenza A virus (A/New Jersey/22/2017(H3N2))]</Hit_def>
+  <Hit_accession>ARI68590</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>gb|AIG45342.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Singapore/H2011.748/2011(H3N2))]</Hit_def>
+  <Hit_accession>AIG45342</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>gb|ALH30471.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Washington/33/2014(H3N2))] &gt;gb|APB90323.1| nucleocapsid protein [Influenza A virus (A/Kentucky/09/2015(H3N2))] &gt;gb|QLF80446.1| nucleocapsid protein [Influenza A virus]</Hit_def>
+  <Hit_accession>ALH30471</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gb|ALH27665.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Connecticut/21/2014(H3N2))] &gt;gb|ALH28442.1| nucleocapsid protein [Influenza A virus (A/Connecticut/21/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH27665</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>gb|ALH30655.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Washington/37/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH30655</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>gb|AHA98460.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Helsinki/941/2013(H3N2))]</Hit_def>
+  <Hit_accession>AHA98460</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.69373e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>gb|AFM72316.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Fujian/445/2003(H3N2))]</Hit_def>
+  <Hit_accession>AFM72316</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.75558e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>gb|ALX28958.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Parma/151/2015(H3N2))] &gt;gb|AOV82411.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-14-064/2014(H3N2))] &gt;gb|AOV82555.1| nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-14-079/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALX28958</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8181e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>75</Hit_num>
+  <Hit_id>gb|ATV85520.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/South Australia/37/2015(H3N2))] &gt;gb|QCF43688.1| nucleocapsid protein [Influenza A virus]</Hit_def>
+  <Hit_accession>ATV85520</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8181e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>76</Hit_num>
+  <Hit_id>gb|AIT16589.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Quebec/26-220405/2005(H3N2))] &gt;gb|AIT16590.1| nucleocapsid protein [Influenza A virus (A/Quebec/26-070605/2005(H3N2))] &gt;gb|AIT16592.1| nucleocapsid protein [Influenza A virus (A/Quebec/26-041105/2005(H3N2))] &gt;gb|AIT16595.1| nucleocapsid protein [Influenza A virus (A/Quebec/26-031205/2005(H3N2))] &gt;gb|AIT16596.1| nucleocapsid protein [Influenza A virus (A/Quebec/26-310106/2006(H3N2))] &gt;gb|AIT16599.1| nucleocapsid protein [Influenza A virus (A/Quebec/26-281106/2006(H3N2))]</Hit_def>
+  <Hit_accession>AIT16589</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8181e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>77</Hit_num>
+  <Hit_id>gb|AOV82471.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/New York/WC-LVD-14-071/2014(H3N2))]</Hit_def>
+  <Hit_accession>AOV82471</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8181e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>78</Hit_num>
+  <Hit_id>gb|ALH28174.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Wyoming/08/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH28174</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8181e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>79</Hit_num>
+  <Hit_id>gb|APB89621.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Michigan/18/2015(H3))]</Hit_def>
+  <Hit_accession>APB89621</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8181e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>80</Hit_num>
+  <Hit_id>gb|AHC58178.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER027/2011(H3N2))]</Hit_def>
+  <Hit_accession>AHC58178</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8813e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>81</Hit_num>
+  <Hit_id>gb|ALH30216.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Georgia/15/2014(H3N2))] &gt;gb|ALM04800.1| nucleocapsid protein [Influenza A virus (A/Budapest/1514A07805419T/2013(H3N2))] &gt;gb|ALM04801.1| nucleocapsid protein [Influenza A virus (A/Budapest/1514A07805832T/2013(H3N2))] &gt;gb|ANN01668.1| nucleocapsid protein [Influenza A virus (A/Texas/120/2016(H3N2))]</Hit_def>
+  <Hit_accession>ALH30216</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8813e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>82</Hit_num>
+  <Hit_id>gb|AJE62986.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Thailand/CU-B8121/2013(H3N2))]</Hit_def>
+  <Hit_accession>AJE62986</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.8813e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>83</Hit_num>
+  <Hit_id>gb|AHC61443.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER292/2010(H3N2))]</Hit_def>
+  <Hit_accession>AHC61443</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.94519e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>84</Hit_num>
+  <Hit_id>gb|AFM72360.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Wellington/01/2004(H3N2))]</Hit_def>
+  <Hit_accession>AFM72360</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.00977e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>85</Hit_num>
+  <Hit_id>gb|ALH26234.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Washington/04/2015(H3N2))] &gt;gb|ALX28538.1| nucleocapsid protein [Influenza A virus (A/Milano/217/2011(H3N2))]</Hit_def>
+  <Hit_accession>ALH26234</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.00977e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>86</Hit_num>
+  <Hit_id>gb|APB90224.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Nevada/22/2015(H3N2))] &gt;gb|ATV87241.1| nucleocapsid protein [Influenza A virus (A/Victoria/3070/2015(H3N2))]</Hit_def>
+  <Hit_accession>APB90224</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.07505e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>87</Hit_num>
+  <Hit_id>gb|ALH30035.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Kansas/10/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH30035</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.07505e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>88</Hit_num>
+  <Hit_id>gb|ATV86989.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Victoria/17/2015(H3N2))]</Hit_def>
+  <Hit_accession>ATV86989</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.07505e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>89</Hit_num>
+  <Hit_id>gb|ACX46219.1|</Hit_id>
+  <Hit_def>nucleocapsid protein, partial [Influenza A virus (A/Brisbane/245/2006(H3N2))]</Hit_def>
+  <Hit_accession>ACX46219</Hit_accession>
+  <Hit_len>485</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>258.84</Hsp_bit-score>
+      <Hsp_score>660</Hsp_score>
+      <Hsp_evalue>6.09978e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>361</Hsp_hit-from>
+      <Hsp_hit-to>485</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>90</Hit_num>
+  <Hit_id>gb|AFM72481.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/BRISBANE/9/2006(H3N2))]</Hit_def>
+  <Hit_accession>AFM72481</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>91</Hit_num>
+  <Hit_id>gb|ALH36673.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Hawaii/37/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH36673</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>92</Hit_num>
+  <Hit_id>gb|ALH36867.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/New Mexico/22/2015(H3N2))]</Hit_def>
+  <Hit_accession>ALH36867</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>93</Hit_num>
+  <Hit_id>gb|AHL96240.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/YGA_01020/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHL96240</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>94</Hit_num>
+  <Hit_id>gb|ANN01068.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Texas/62/2016(H3N2))]</Hit_def>
+  <Hit_accession>ANN01068</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>95</Hit_num>
+  <Hit_id>gb|AHL99586.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Santa Clara/YGA_03052/2013(H3N2))]</Hit_def>
+  <Hit_accession>AHL99586</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>96</Hit_num>
+  <Hit_id>gb|AHM00376.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Chicago/YGA_04092/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHM00376</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>97</Hit_num>
+  <Hit_id>gb|ALM05732.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Japan/22/2011(H3N2))]</Hit_def>
+  <Hit_accession>ALM05732</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>98</Hit_num>
+  <Hit_id>gb|ALH27480.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Pennsylvania/42/2014(H3N2))] &gt;gb|ALH27757.1| nucleocapsid protein [Influenza A virus (A/New Hampshire/21/2014(H3N2))] &gt;gb|ALH28398.1| nucleocapsid protein [Influenza A virus (A/New Hampshire/21/2014(H3N2))] &gt;gb|APB89826.1| nucleocapsid protein [Influenza A virus (A/Pennsylvania/42/2014(H3N2))]</Hit_def>
+  <Hit_accession>ALH27480</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>99</Hit_num>
+  <Hit_id>gb|AHC58424.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Peru/PER041/2011(H3N2))] &gt;gb|AHC58436.1| nucleocapsid protein [Influenza A virus (A/Peru/PER042/2012(H3N2))] &gt;gb|AHC58687.1| nucleocapsid protein [Influenza A virus (A/Peru/PER063/2012(H3N2))] &gt;gb|AHC59813.1| nucleocapsid protein [Influenza A virus (A/Peru/PER153/2012(H3N2))]</Hit_def>
+  <Hit_accession>AHC58424</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>100</Hit_num>
+  <Hit_id>gb|AGW01945.1|</Hit_id>
+  <Hit_def>nucleocapsid protein [Influenza A virus (A/Boston/DOA2-222/2012(H3N2))]</Hit_def>
+  <Hit_accession>AGW01945</Hit_accession>
+  <Hit_len>498</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>6.14104e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>125</Hsp_query-to>
+      <Hsp_hit-from>374</Hsp_hit-from>
+      <Hsp_hit-to>498</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_qseq>
+      <Hsp_hseq>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_hseq>
+      <Hsp_midline>MGSSTLELRSGYWAIRTRSGGNTNQQRASAGQTSVQPTFSVQRNLPFEKSTIMAAFTGNTEGRTSDMRAEIIRMMEGAKPEEVSFRGRGVFELSDEKATNPIVPSFDMSNEGSYFFGDNAEEYDN</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>510315226</Statistics_db-num>
+      <Statistics_db-len>1397731651</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

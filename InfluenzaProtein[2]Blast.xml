@@ -1,0 +1,2841 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_76970</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>50</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>0.05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>L;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_76970</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>50</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|EGE3476874.1|</Hit_id>
+  <Hit_def>hypothetical protein [Shigella flexneri]</Hit_def>
+  <Hit_accession>EGE3476874</Hit_accession>
+  <Hit_len>74</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.95511e-28</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>25</Hsp_hit-from>
+      <Hsp_hit-to>74</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|EFI2641764.1|</Hit_id>
+  <Hit_def>hypothetical protein [Escherichia coli]</Hit_def>
+  <Hit_accession>EFI2641764</Hit_accession>
+  <Hit_len>88</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>7.02232e-28</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>39</Hsp_hit-from>
+      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|ADX21089.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Cambodia/NHRCC00010/2009(H3N2))]</Hit_def>
+  <Hit_accession>ADX21089</Hit_accession>
+  <Hit_len>105</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>1.01215e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_206771156.1|</Hit_id>
+  <Hit_def>hypothetical protein, partial [Klebsiella quasipneumoniae] &gt;gb|ADW82147.1| matrix protein 1, partial [Influenza A virus (A/Cambodia/NHRCC00008/2009(H3N2))]</Hit_def>
+  <Hit_accession>WP_206771156</Hit_accession>
+  <Hit_len>106</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.11242e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>57</Hsp_hit-from>
+      <Hsp_hit-to>106</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|TVW24468.1|</Hit_id>
+  <Hit_def>hypothetical protein AZJ99_11260 [Streptococcus pneumoniae]</Hit_def>
+  <Hit_accession>TVW24468</Hit_accession>
+  <Hit_len>62</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>1.11279e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>62</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gb|QHB49302.1|</Hit_id>
+  <Hit_def>MAG: matrix protein 1, partial [unidentified influenza virus]</Hit_def>
+  <Hit_accession>QHB49302</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.18503e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>55</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gb|ECP7628975.1|</Hit_id>
+  <Hit_def>hypothetical protein [Campylobacter jejuni]</Hit_def>
+  <Hit_accession>ECP7628975</Hit_accession>
+  <Hit_len>116</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.41783e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>67</Hsp_hit-from>
+      <Hsp_hit-to>116</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_248278606.1|</Hit_id>
+  <Hit_def>hypothetical protein [Streptococcus pneumoniae]</Hit_def>
+  <Hit_accession>WP_248278606</Hit_accession>
+  <Hit_len>118</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.71202e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>69</Hsp_hit-from>
+      <Hsp_hit-to>118</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gb|ACY66369.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Beijing/403/2009(H3N2))]</Hit_def>
+  <Hit_accession>ACY66369</Hit_accession>
+  <Hit_len>135</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.2506e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>86</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gb|ADW82125.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Cambodia/NHRCC00003/2009(H3N2))]</Hit_def>
+  <Hit_accession>ADW82125</Hit_accession>
+  <Hit_len>140</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.45076e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>91</Hsp_hit-from>
+      <Hsp_hit-to>140</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gb|ADX36110.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Cambodia/NHRCC00011/2009(H3N2))]</Hit_def>
+  <Hit_accession>ADX36110</Hit_accession>
+  <Hit_len>131</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>2.50286e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>82</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gb|AFJ44709.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Boston/DOA37/2011(mixed))]</Hit_def>
+  <Hit_accession>AFJ44709</Hit_accession>
+  <Hit_len>137</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.51409e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>88</Hsp_hit-from>
+      <Hsp_hit-to>137</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gb|QZA59483.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>QZA59483</Hit_accession>
+  <Hit_len>143</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.93933e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>94</Hsp_hit-from>
+      <Hsp_hit-to>143</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>dbj|BAI79435.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/441/2007(H3N2))] &gt;dbj|BAI79437.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/441/2007(H3N2))] &gt;dbj|BAI79439.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/441/2007(H3N2))] &gt;dbj|BAI79441.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/441/2007(H3N2))]</Hit_def>
+  <Hit_accession>BAI79435</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>3.62492e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>dbj|BAI79409.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/F150/2007(H3N2))] &gt;dbj|BAI79411.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/132/2006(H3N2))] &gt;dbj|BAI79421.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/271/2007(H3N2))] &gt;dbj|BAI79433.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/441/2007(H3N2))] &gt;dbj|BAI79413.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/132/2006(H3N2))]</Hit_def>
+  <Hit_accession>BAI79409</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>3.7867e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gb|EAC6029319.1|</Hit_id>
+  <Hit_def>hypothetical protein [Listeria monocytogenes]</Hit_def>
+  <Hit_accession>EAC6029319</Hit_accession>
+  <Hit_len>157</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>4.36288e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>108</Hsp_hit-from>
+      <Hsp_hit-to>157</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>dbj|BAI59475.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai/TU41/2009(H3N2))] &gt;dbj|BAI59477.1| matrix protein 1, partial [Influenza A virus (A/Sendai/TU45/2009(H3N2))] &gt;dbj|BAI59479.1| matrix protein 1, partial [Influenza A virus (A/Sendai/TU49/2008(H3N2))]</Hit_def>
+  <Hit_accession>BAI59475</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.46067e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>104</Hsp_hit-from>
+      <Hsp_hit-to>153</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>dbj|BAI79373.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/F005/2006(H3N2))] &gt;dbj|BAI79375.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/F005/2006(H3N2))]</Hit_def>
+  <Hit_accession>BAI79373</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.6088e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>dbj|BAI59471.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai/TU204/2008(H3N2))] &gt;dbj|BAI59473.1| matrix protein 1, partial [Influenza A virus (A/Sendai/TU211/2008(H3N2))]</Hit_def>
+  <Hit_accession>BAI59471</Hit_accession>
+  <Hit_len>153</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.60912e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>104</Hsp_hit-from>
+      <Hsp_hit-to>153</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|WP_129430416.1|</Hit_id>
+  <Hit_def>hypothetical protein [Listeria monocytogenes] &gt;gb|EBJ4350899.1| hypothetical protein [Salmonella enterica]</Hit_def>
+  <Hit_accession>WP_129430416</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.94221e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>111</Hsp_hit-from>
+      <Hsp_hit-to>160</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gb|QCD37266.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>QCD37266</Hit_accession>
+  <Hit_len>49</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>101.679</Hsp_bit-score>
+      <Hsp_score>252</Hsp_score>
+      <Hsp_evalue>7.51628e-27</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>EIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>EIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>EIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gb|QHB49300.1|</Hit_id>
+  <Hit_def>MAG: matrix protein 1, partial [unidentified influenza virus]</Hit_def>
+  <Hit_accession>QHB49300</Hit_accession>
+  <Hit_len>117</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.219</Hsp_bit-score>
+      <Hsp_score>256</Hsp_score>
+      <Hsp_evalue>9.38896e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>68</Hsp_hit-from>
+      <Hsp_hit-to>117</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSAGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSS GLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gb|MBF8469431.1|</Hit_id>
+  <Hit_def>hypothetical protein [Klebsiella oxytoca]</Hit_def>
+  <Hit_accession>MBF8469431</Hit_accession>
+  <Hit_len>177</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.0628e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>128</Hsp_hit-from>
+      <Hsp_hit-to>177</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>dbj|BAI79423.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/271/2007(H3N2))]</Hit_def>
+  <Hit_accession>BAI79423</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>1.07972e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSASTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPS+STGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>dbj|BAI79377.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/F005/2006(H3N2))] &gt;dbj|BAI79385.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/132/2006(H3N2))] &gt;dbj|BAI79397.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/401/2006(H3N2))] &gt;dbj|BAI79379.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/F005/2006(H3N2))] &gt;dbj|BAI79381.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/F005/2006(H3N2))]</Hit_def>
+  <Hit_accession>BAI79377</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>1.11565e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRTVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMR VGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>dbj|BAI79415.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/132/2006(H3N2))] &gt;dbj|BAI79427.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/271/2007(H3N2))] &gt;dbj|BAI79417.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/132/2006(H3N2))] &gt;dbj|BAI79419.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/132/2006(H3N2))] &gt;dbj|BAI79429.1| matrix protein 1, partial [Influenza A virus (A/Sendai-H/271/2007(H3N2))]</Hit_def>
+  <Hit_accession>BAI79415</Hit_accession>
+  <Hit_len>151</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>1.16543e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>102</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARRMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQAR+MVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|EGC2685589.1|</Hit_id>
+  <Hit_def>hypothetical protein [Escherichia coli]</Hit_def>
+  <Hit_accession>EGC2685589</Hit_accession>
+  <Hit_len>197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.74591e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>148</Hsp_hit-from>
+      <Hsp_hit-to>197</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gb|AKE37131.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Beijing/FL31/2013(H3N2))]</Hit_def>
+  <Hit_accession>AKE37131</Hit_accession>
+  <Hit_len>187</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>1.76363e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>138</Hsp_hit-from>
+      <Hsp_hit-to>187</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gb|QHB49307.1|</Hit_id>
+  <Hit_def>MAG: matrix protein, partial [unidentified influenza virus]</Hit_def>
+  <Hit_accession>QHB49307</Hit_accession>
+  <Hit_len>192</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>2.13475e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>143</Hsp_hit-from>
+      <Hsp_hit-to>192</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gb|AKE37129.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Beijing/FL29/2013(H3N2))]</Hit_def>
+  <Hit_accession>AKE37129</Hit_accession>
+  <Hit_len>194</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>2.24395e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>145</Hsp_hit-from>
+      <Hsp_hit-to>194</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>dbj|BAI79371.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Sendai-H/F361/2007(H3N2))]</Hit_def>
+  <Hit_accession>BAI79371</Hit_accession>
+  <Hit_len>49</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.138</Hsp_bit-score>
+      <Hsp_score>248</Hsp_score>
+      <Hsp_evalue>2.46281e-26</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>EIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>EIASQARRMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>EIASQAR+MVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gb|AKE37135.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Beijing/FL93/2013(H3N2))]</Hit_def>
+  <Hit_accession>AKE37135</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>2.67397e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>153</Hsp_hit-from>
+      <Hsp_hit-to>202</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gb|AKE37133.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Beijing/FL85/2012(H3N2))]</Hit_def>
+  <Hit_accession>AKE37133</Hit_accession>
+  <Hit_len>203</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>2.92384e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>154</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>emb|CAD30519.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Moscow/10/1999(H3N2))]</Hit_def>
+  <Hit_accession>CAD30519</Hit_accession>
+  <Hit_len>211</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>3.04564e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>162</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gb|EGC2247933.1|</Hit_id>
+  <Hit_def>hypothetical protein [Salmonella enterica subsp. enterica serovar Typhimurium]</Hit_def>
+  <Hit_accession>EGC2247933</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>3.46194e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>173</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gb|RYB24842.1|</Hit_id>
+  <Hit_def>hypothetical protein D7089_14375 [Staphylococcus aureus]</Hit_def>
+  <Hit_accession>RYB24842</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>3.98286e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>161</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gb|APF29863.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/New Jersey/NHRC_93442/2016(H3N2))]</Hit_def>
+  <Hit_accession>APF29863</Hit_accession>
+  <Hit_len>64</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.138</Hsp_bit-score>
+      <Hsp_score>248</Hsp_score>
+      <Hsp_evalue>3.98656e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>64</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLXDDLLENLQAYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGL DDLLENLQ YQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|ACY66367.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Beijing/393/2009(H3N2))]</Hit_def>
+  <Hit_accession>ACY66367</Hit_accession>
+  <Hit_len>133</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.064</Hsp_bit-score>
+      <Hsp_score>253</Hsp_score>
+      <Hsp_evalue>4.0306e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>84</Hsp_hit-from>
+      <Hsp_hit-to>133</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLXBDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGL +DLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gb|ADW82136.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Cambodia/NHRCC00007/2009(H3N2))]</Hit_def>
+  <Hit_accession>ADW82136</Hit_accession>
+  <Hit_len>213</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>4.09544e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>164</Hsp_hit-from>
+      <Hsp_hit-to>213</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gb|AIE53691.1|</Hit_id>
+  <Hit_def>putative matrix protein 1, partial [Influenza A virus (A/Santiago/p3d2/2012(H3N2))]</Hit_def>
+  <Hit_accession>AIE53691</Hit_accession>
+  <Hit_len>211</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>4.35217e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>162</Hsp_hit-from>
+      <Hsp_hit-to>211</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gb|ADE46991.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Chongqing/60/2004(H3N2))]</Hit_def>
+  <Hit_accession>ADE46991</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.49538e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gb|ADE46749.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Henan/8/2002(H3N2))]</Hit_def>
+  <Hit_accession>ADE46749</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.54407e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gb|AAD33766.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/0045/1998(H3N2))]</Hit_def>
+  <Hit_accession>AAD33766</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.5567e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gb|AHZ40058.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Houston/JMM_83/2012(H3))] &gt;gb|AID47941.1| matrix protein 1, partial [Influenza A virus (A/Czech Republic/217/2013(H3N2))]</Hit_def>
+  <Hit_accession>AHZ40058</Hit_accession>
+  <Hit_len>216</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>4.58894e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>167</Hsp_hit-from>
+      <Hsp_hit-to>216</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gb|ADE46975.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Anhui/557/2004(H3N2))] &gt;gb|ADE46989.1| matrix protein 1, partial [Influenza A virus (A/Chongqing/413/2004(H3N2))] &gt;gb|ADE47009.1| matrix protein 1, partial [Influenza A virus (A/Guangxi/47/2004(H3N2))] &gt;gb|ADE47011.1| matrix protein 1, partial [Influenza A virus (A/Guangxi/63/2004(H3N2))] &gt;gb|ADE47015.1| matrix protein 1, partial [Influenza A virus (A/Hainan/C171/2004(H3N2))] &gt;gb|ADE47033.1| matrix protein 1, partial [Influenza A virus (A/Jiangxi/367/2004(H3N2))] &gt;gb|ADE47037.1| matrix protein 1, partial [Influenza A virus (A/Neimeng/161/2004(H3N2))] &gt;gb|ADE47039.1| matrix protein 1, partial [Influenza A virus (A/Neimeng/172/2004(H3N2))] &gt;gb|ADE47047.1| matrix protein 1, partial [Influenza A virus (A/Shandong/263/2004(H3N2))] &gt;gb|ADE47063.1| matrix protein 1, partial [Influenza A virus (A/Xinjiang/36/2004(H3N2))] &gt;gb|ADE47065.1| matrix protein 1, partial [Influenza A virus (A/Xinjiang/62/2004(H3N2))] &gt;gb|ADE47067.1| matrix protein 1, partial [Influenza A virus (A/Xinjiang/77/2004(H3N2))] &gt;gb|ADE47069.1| matrix protein 1, partial [Influenza A virus (A/Xinjiang/83/2004(H3N2))] &gt;gb|ADE47097.1| matrix protein 1, partial [Influenza A virus (A/Beijing/181/2005(H3N2))] &gt;gb|ADE47099.1| matrix protein 1, partial [Influenza A virus (A/Beijing/30/2005(H3N2))] &gt;gb|ADE47121.1| matrix protein 1, partial [Influenza A virus (A/Dalian/1/2005(H3N2))] &gt;gb|ADE47127.1| matrix protein 1, partial [Influenza A virus (A/Gansu/15/2005(H3N2))] &gt;gb|ADE47131.1| matrix protein 1, partial [Influenza A virus (A/Gansu/405/2005(H3N2))] &gt;gb|ADE47133.1| matrix protein 1, partial [Influenza A virus (A/Gansu/810/2005(H3N2))] &gt;gb|ADE47165.1| matrix protein 1, partial [Influenza A virus (A/Hebei/136/2005(H3N2))] &gt;gb|ADE47173.1| matrix protein 1, partial [Influenza A virus (A/Hebei/39/2005(H3N2))] &gt;gb|ADE47191.1| matrix protein 1, partial [Influenza A virus (A/Hubei/136/2005(H3N2))] &gt;gb|ADE47209.1| matrix protein 1, partial [Influenza A virus (A/JIANGXI/169/2005(H3N2))] &gt;gb|ADE47227.1| matrix protein 1, partial [Influenza A virus (A/Ningbo/239/2005(H3N2))] &gt;gb|ADE47231.1| matrix protein 1, partial [Influenza A virus (A/Ningbo/244/2005(H3N2))] &gt;gb|ADE47245.1| matrix protein 1, partial [Influenza A virus (A/Ningxia/139/2005(H3N2))] &gt;gb|ADE47247.1| matrix protein 1, partial [Influenza A virus (A/Shaanxi/147/2005(H3N2))] &gt;gb|ADE47267.1| matrix protein 1, partial [Influenza A virus (A/Tianjin/161/2005(H3N2))] &gt;gb|ADE47283.1| matrix protein 1, partial [Influenza A virus (A/Wulumuqi/37/2005(H3N2))] &gt;gb|ADE47761.1| matrix protein 1, partial [Influenza A virus (A/Hafang/36/1998(H3N2))]</Hit_def>
+  <Hit_accession>ADE46975</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.64303e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gb|AGI01416.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Taiwan/1105/2004(H3N2))]</Hit_def>
+  <Hit_accession>AGI01416</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>4.76211e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>199</Hsp_hit-from>
+      <Hsp_hit-to>248</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gb|ADE47829.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Jingke/129/1998(H3N2))]</Hit_def>
+  <Hit_accession>ADE47829</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.79552e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gb|ADE45537.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Shanghai/2/1998(H1N1))] &gt;gb|ADE45539.1| matrix protein 1, partial [Influenza A virus (A/Shanghai/56/1998(H1N1))] &gt;gb|ADE45663.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/414/2001(H1N1))] &gt;gb|ADE46677.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/375/2001(H3N2))] &gt;gb|ADE46679.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/428/2001(H3N2))] &gt;gb|ADE46681.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/431/2001(H3N2))] &gt;gb|ADE46683.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/433/2001(H3N2))] &gt;gb|ADE46685.1| matrix protein 1, partial [Influenza A virus (A/Hebei/37/2001(H3N2))] &gt;gb|ADE46687.1| matrix protein 1, partial [Influenza A virus (A/Henan/136/2001(H3N2))] &gt;gb|ADE46689.1| matrix protein 1, partial [Influenza A virus (A/Henan/145/2001(H3N2))] &gt;gb|ADE46691.1| matrix protein 1, partial [Influenza A virus (A/Jin/217/2001(H3N2))] &gt;gb|ADE46695.1| matrix protein 1, partial [Influenza A virus (A/Shandong/27/2001(H3N2))] &gt;gb|ADE46699.1| matrix protein 1, partial [Influenza A virus (A/Shandong/28/2001(H3N2))] &gt;gb|ADE46701.1| matrix protein 1, partial [Influenza A virus (A/Tianjin/231/2001(H3N2))] &gt;gb|ADE46703.1| matrix protein 1, partial [Influenza A virus (A/Tianjin/245/2001(H3N2))] &gt;gb|ADE46705.1| matrix protein 1, partial [Influenza A virus (A/Tianjin/252/2001(H3N2))] &gt;gb|ADE46707.1| matrix protein 1, partial [Influenza A virus (A/Tianjin/7/2001(H3N2))] &gt;gb|ADE46713.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/1/2002(H3N2))] &gt;gb|ADE46721.1| matrix protein 1, partial [Influenza A virus (A/Han/9/2002(H3N2))] &gt;gb|ADE46723.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/412/2002(H3N2))] &gt;gb|ADE46727.1| matrix protein 1, partial [Influenza A virus (A/Hebei/12/2002(H3N2))] &gt;gb|ADE46729.1| matrix protein 1, partial [Influenza A virus (A/Henan/1/2002(H3N2))] &gt;gb|ADE46731.1| matrix protein 1, partial [Influenza A virus (A/Henan/141/2002(H3N2))] &gt;gb|ADE46743.1| matrix protein 1, partial [Influenza A virus (A/Henan/5/2002(H3N2))] &gt;gb|ADE46745.1| matrix protein 1, partial [Influenza A virus (A/Henan/6/2002(H3N2))] &gt;gb|ADE46747.1| matrix protein 1, partial [Influenza A virus (A/Henan/7/2002(H3N2))] &gt;gb|ADE46751.1| matrix protein 1, partial [Influenza A virus (A/Hubei/37/2002(H3N2))] &gt;gb|ADE46753.1| matrix protein 1, partial [Influenza A virus (A/Hubei/48/2002(H3N2))] &gt;gb|ADE46755.1| matrix protein 1, partial [Influenza A virus (A/Hubei/56/2002(H3N2))] &gt;gb|ADE46757.1| matrix protein 1, partial [Influenza A virus (A/Hubei/62/2002(H3N2))] &gt;gb|ADE46765.1| matrix protein 1, partial [Influenza A virus (A/Jinfang/22/2002(H3N2))] &gt;gb|ADE46767.1| matrix protein 1, partial [Influenza A virus (A/Jing/17/2002(H3N2))] &gt;gb|ADE46769.1| matrix protein 1, partial [Influenza A virus (A/Jing/35/2002(H3N2))] &gt;gb|ADE46771.1| matrix protein 1, partial [Influenza A virus (A/Jing/44/2002(H3N2))] &gt;gb|ADE46777.1| matrix protein 1, partial [Influenza A virus (A/Liaoning/40/2002(H3N2))] &gt;gb|ADE46779.1| matrix protein 1, partial [Influenza A virus (A/Liaoning/53/2002(H3N2))] &gt;gb|ADE46781.1| matrix protein 1, partial [Influenza A virus (A/Min/166/2002(H3N2))] &gt;gb|ADE46787.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/7/2002(H3N2))] &gt;gb|ADE46789.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/75/2002(H3N2))] &gt;gb|ADE46791.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/8/2002(H3N2))] &gt;gb|ADE46793.1| matrix protein 1, partial [Influenza A virus (A/Sui/353/2002(H3N2))] &gt;gb|ADE46795.1| matrix protein 1, partial [Influenza A virus (A/Sui/77/2002(H3N2))] &gt;gb|ADE46797.1| matrix protein 1, partial [Influenza A virus (A/Yue/100/2002(H3N2))] &gt;gb|ADE46799.1| matrix protein 1, partial [Influenza A virus (A/Yue/263/2002(H3N2))] &gt;gb|ADE46809.1| matrix protein 1, partial [Influenza A virus (A/Yuefang/200/2002(H3N2))] &gt;gb|ADE46811.1| matrix protein 1, partial [Influenza A virus (A/Yunnan/400/2002(H3N2))] &gt;gb|ADE46813.1| matrix protein 1, partial [Influenza A virus (A/Zhejiang/12/2002(H3N2))] &gt;gb|ADE46815.1| matrix protein 1, partial [Influenza A virus (A/Zhejiang/5/2002(H3N2))] &gt;gb|ADE46817.1| matrix protein 1, partial [Influenza A virus (A/Zhejiang/9/2002(H3N2))] &gt;gb|ADE46957.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/262/2003(H3N2))] &gt;gb|ADE47341.1| matrix protein 1, partial [Influenza A virus (A/Gui/341/1997(H3N2))] &gt;gb|ADE47563.1| matrix protein 1, partial [Influenza A virus (A/Guanger/149/1998(H3N2))] &gt;gb|ADE47607.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/118/1998(H3N2))] &gt;gb|ADE47629.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/331/1998(H3N2))] &gt;gb|ADE47651.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/499/1998(H3N2))] &gt;gb|ADE47695.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/720/1998(H3N2))] &gt;gb|ADE47717.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/933/1998(H3N2))] &gt;gb|ADE47739.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/934/1998(H3N2))] &gt;gb|ADE47785.1| matrix protein 1, partial [Influenza A virus (A/Hebei/95/1998(H3N2))] &gt;gb|ADE47851.1| matrix protein 1, partial [Influenza A virus (A/Jingke/14/1998(H3N2))] &gt;gb|ADE47873.1| matrix protein 1, partial [Influenza A virus (A/Jingke/44/1998(H3N2))] &gt;gb|ADE47917.1| matrix protein 1, partial [Influenza A virus (A/Minfang/221/1998(H3N2))] &gt;gb|ADE47939.1| matrix protein 1, partial [Influenza A virus (A/Minfang/336/1998(H3N2))] &gt;gb|ADE47961.1| matrix protein 1, partial [Influenza A virus (A/Sh/1/1998(H3N2))] &gt;gb|ADE47983.1| matrix protein 1, partial [Influenza A virus (A/Sh/72/1998(H3N2))] &gt;gb|ADE48029.1| matrix protein 1, partial [Influenza A virus (A/Shenfang/1195/1998(H3N2))] &gt;gb|ADE48051.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/137/1998(H3N2))] &gt;gb|ADE48073.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/418/1998(H3N2))] &gt;gb|ADE48077.1| matrix protein 1, partial [Influenza A virus (A/Guanger/552/1999(H3N2))] &gt;gb|ADE48079.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/118/1999(H3N2))] &gt;gb|ADE48081.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/191/1999(H3N2))] &gt;gb|ADE48083.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/242/1999(H3N2))] &gt;gb|ADE48085.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/57/1999(H3N2))] &gt;gb|ADE48087.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/794/1999(H3N2))] &gt;gb|ADE48091.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/93/1999(H3N2))] &gt;gb|ADE48093.1| matrix protein 1, partial [Influenza A virus (A/Shenfang/1090/1999(H3N2))] &gt;gb|ADE48095.1| matrix protein 1, partial [Influenza A virus (A/Shenzhen/450/1999(H3N2))] &gt;gb|ADE48097.1| matrix protein 1, partial [Influenza A virus (A/Shenzhen/474/1999(H3N2))] &gt;gb|ADE48099.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/229/2000(H3N2))] &gt;gb|ADE48103.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/375/2000(H3N2))] &gt;gb|ADE48105.1| matrix protein 1, partial [Influenza A virus (A/Min/151/2000(H3N2))] &gt;gb|ADE48107.1| matrix protein 1, partial [Influenza A virus (A/Shen/805/2000(H3N2))] &gt;gb|ADE48109.1| matrix protein 1, partial [Influenza A virus (A/Shen/882/2000(H3N2))] &gt;gb|ADE48113.1| matrix protein 1, partial [Influenza A virus (A/Sui/98/2000(H3N2))] &gt;gb|ADE48115.1| matrix protein 1, partial [Influenza A virus (A/Suifang/442/2000(H3N2))] &gt;gb|ADE48117.1| matrix protein 1, partial [Influenza A virus (A/Yuefang/233/2000(H3N2))] &gt;gb|ADE48121.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/1237/2001(H3N2))] &gt;gb|ADE48123.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/1348/2001(H3N2))] &gt;gb|ADE48125.1| matrix protein 1, partial [Influenza A virus (A/Guizhou/112/2001(H3N2))] &gt;gb|ADE48127.1| matrix protein 1, partial [Influenza A virus (A/Ha/99/2001(H3N2))] &gt;gb|ADE48129.1| matrix protein 1, partial [Influenza A virus (A/Hafang/180/2001(H3N2))] &gt;gb|ADE48131.1| matrix protein 1, partial [Influenza A virus (A/Han/12/2001(H3N2))]</Hit_def>
+  <Hit_accession>ADE45537</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.79552e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gb|AAD33762.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/3351/97(H3N2))]</Hit_def>
+  <Hit_accession>AAD33762</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.91322e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gb|AAD33765.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/21/98(H3N2))]</Hit_def>
+  <Hit_accession>AAD33765</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>4.96638e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gb|ADE47517.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Jingfang/62/1997(H3N2))]</Hit_def>
+  <Hit_accession>ADE47517</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.00666e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gb|ADE46603.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Shanghai/20/1996(H1N1))] &gt;gb|ADE46605.1| matrix protein 1, partial [Influenza A virus (A/Shenfang/182/1996(H1N1))] &gt;gb|ADE46613.1| matrix protein 1, partial [Influenza A virus (A/Fujian/273/1997(H1N1))] &gt;gb|ADE46763.1| matrix protein 1, partial [Influenza A virus (A/Fujian/126/1996(H3N2))] &gt;gb|ADE46807.1| matrix protein 1, partial [Influenza A virus (A/Fujian/202/1996(H3N2))] &gt;gb|ADE46829.1| matrix protein 1, partial [Influenza A virus (A/Fujian/229/1996(H3N2))] &gt;gb|ADE46897.1| matrix protein 1, partial [Influenza A virus (A/Guifang/189/1996(H3N2))] &gt;gb|ADE46963.1| matrix protein 1, partial [Influenza A virus (A/Hainan/10/1996(H3N2))] &gt;gb|ADE46985.1| matrix protein 1, partial [Influenza A virus (A/Hainan/121/1996(H3N2))] &gt;gb|ADE47007.1| matrix protein 1, partial [Influenza A virus (A/Hanfang/197/1996(H3N2))] &gt;gb|ADE47073.1| matrix protein 1, partial [Influenza A virus (A/Hu/18/1996(H3N2))] &gt;gb|ADE47095.1| matrix protein 1, partial [Influenza A virus (A/Hu/5/1996(H3N2))] &gt;gb|ADE47119.1| matrix protein 1, partial [Influenza A virus (A/Jing/259/1996(H3N2))] &gt;gb|ADE47141.1| matrix protein 1, partial [Influenza A virus (A/Jingfang/233/1996(H3N2))] &gt;gb|ADE47163.1| matrix protein 1, partial [Influenza A virus (A/Jingfang/247/1996(H3N2))] &gt;gb|ADE47185.1| matrix protein 1, partial [Influenza A virus (A/Jingfang/259/1996(H3N2))] &gt;gb|ADE47229.1| matrix protein 1, partial [Influenza A virus (A/Mengfang/27/1996(H3N2))] &gt;gb|ADE47251.1| matrix protein 1, partial [Influenza A virus (A/Shanghai/15/1996(H3N2))] &gt;gb|ADE47273.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/101/1996(H3N2))] &gt;gb|ADE47295.1| matrix protein 1, partial [Influenza A virus (A/Sichuan/97/1996(H3N2))] &gt;gb|ADE47317.1| matrix protein 1, partial [Influenza A virus (A/Guangzhou/66/1997(H3N2))] &gt;gb|ADE47363.1| matrix protein 1, partial [Influenza A virus (A/Hafang/1/1997(H3N2))] &gt;gb|ADE47385.1| matrix protein 1, partial [Influenza A virus (A/Hafang/2/1997(H3N2))] &gt;gb|ADE47451.1| matrix protein 1, partial [Influenza A virus (A/Jin/64/1997(H3N2))] &gt;gb|ADE47473.1| matrix protein 1, partial [Influenza A virus (A/Jinfang/46/1997(H3N2))] &gt;gb|ADE47495.1| matrix protein 1, partial [Influenza A virus (A/Jinfang/51/1997(H3N2))] &gt;gb|ADE47539.1| matrix protein 1, partial [Influenza A virus (A/Jingfang/65/1997(H3N2))] &gt;gb|ADE48007.1| matrix protein 1, partial [Influenza A virus (A/Shantou/133/1998(H3N2))]</Hit_def>
+  <Hit_accession>ADE46603</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.00666e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>234</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gb|AAD33768.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/0346/1998(H3N2))]</Hit_def>
+  <Hit_accession>AAD33768</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.02011e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gb|ADI99513.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Fukui/20/2004(H3N2))]</Hit_def>
+  <Hit_accession>ADI99513</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.02091e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>202</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gb|ABR20770.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Niedersachsen/4/05(H3N2))] &gt;gb|ABR20774.1| matrix protein 1, partial [Influenza A virus (A/Rheinland-Pfalz/1/05(H3N2))] &gt;gb|AGI01388.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/586/2004(H3N2))] &gt;gb|AGI01392.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/61/2004(H3N2))] &gt;gb|AGI01396.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/56/2004(H3N2))] &gt;gb|AGI01412.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/1094/2004(H3N2))] &gt;gb|AGI01414.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/358/2004(H3N2))] &gt;gb|AGI01422.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/265/2004(H3N2))] &gt;gb|AGI01426.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/269/2004(H3N2))] &gt;gb|AGI01428.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/1111/2004(H3N2))] &gt;gb|AGI01440.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/87/2005(H3N2))] &gt;gb|AGI01456.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/102/2005(H3N2))]</Hit_def>
+  <Hit_accession>ABR20770</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.02387e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>200</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gb|ASB32352.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/California/NHRC_FDX40782/2016(H3N2))] &gt;gb|ASB32368.1| matrix protein 1, partial [Influenza A virus (A/California/NHRC_SAR10454N/2017(H3N2))] &gt;gb|ASB32376.1| matrix protein 1, partial [Influenza A virus (A/California/NHRC_SEA026/2017(H3N2))] &gt;gb|ASB32378.1| matrix protein 1, partial [Influenza A virus (A/California/NHRC_SEA027/2017(H3N2))] &gt;gb|ASB32398.1| matrix protein 1, partial [Influenza A virus (A/Missouri/NHRC_36958/2017(H3N2))] &gt;gb|ASB32403.1| matrix protein 1, partial [Influenza A virus (A/South Carolina/NHRC_75576/2016(H3N2))] &gt;gb|ASB32407.1| matrix protein 1, partial [Influenza A virus (A/South Carolina/NHRC_75618/2017(H3N2))] &gt;gb|ASB32409.1| matrix protein 1, partial [Influenza A virus (A/South Carolina/NHRC_75622/2017(H3N2))]</Hit_def>
+  <Hit_accession>ASB32352</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>5.06523e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>175</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gb|ABC86030.2|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Canterbury/305/2004(H3N2))] &gt;gb|AGI01402.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/1109/2004(H3N2))] &gt;dbj|BAM66412.1| matrix protein 1, partial [Influenza A virus (A/Hyogo/36/2004(H3N2))]</Hit_def>
+  <Hit_accession>ABC86030</Hit_accession>
+  <Hit_len>251</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.0751e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>202</Hsp_hit-from>
+      <Hsp_hit-to>251</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gb|ASB32360.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/California/NHRC_FDX90242/2017(H3N2))]</Hit_def>
+  <Hit_accession>ASB32360</Hit_accession>
+  <Hit_len>223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>5.1689e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>174</Hsp_hit-from>
+      <Hsp_hit-to>223</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gb|AAD33763.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/3469/97(H3N2))]</Hit_def>
+  <Hit_accession>AAD33763</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.18482e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gb|ABR20760.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Baden-Wuerttemberg/97/2004(H3N2))] &gt;gb|AGI01390.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/24/2004(H3N2))] &gt;gb|AGI01398.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/60/2004(H3N2))] &gt;gb|AGI01400.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/95/2004(H3N2))] &gt;gb|AGI01424.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/266/2004(H3N2))] &gt;gb|AGI01452.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/108/2005(H3N2))]</Hit_def>
+  <Hit_accession>ABR20760</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.18698e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>201</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gb|ABR20776.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Schleswig-Holstein/12/05(H3N2))] &gt;gb|AGI01394.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/55/2004(H3N2))]</Hit_def>
+  <Hit_accession>ABR20776</Hit_accession>
+  <Hit_len>248</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.18947e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>199</Hsp_hit-from>
+      <Hsp_hit-to>248</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gb|AAD33767.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/224/98(H3N2))]</Hit_def>
+  <Hit_accession>AAD33767</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.24092e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gb|ACN80384.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Taiwan/20/2004(H3N2))] &gt;gb|ACN80386.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/249/2004(H3N2))] &gt;gb|ACN80388.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/292/2004(H3N2))] &gt;gb|ACN80400.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/350/2004(H3N2))] &gt;gb|ACN80404.1| matrix protein 1, partial [Influenza A virus (A/Taiwan/129/2005(H3N2))]</Hit_def>
+  <Hit_accession>ACN80384</Hit_accession>
+  <Hit_len>246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.24676e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>197</Hsp_hit-from>
+      <Hsp_hit-to>246</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>gb|ADU02761.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Bucuresti/641/2009(H3N2))] &gt;gb|ADU02770.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/139.1.A/2009(H3N2))] &gt;gb|ADU02778.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/153.1.A/2009(H3N2))] &gt;gb|ADU02802.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/103/2009(H3N2))] &gt;gb|ADU02804.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/273/2009(H3N2))] &gt;gb|ADU02809.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/289/2009(H3N2))] &gt;gb|ADU02811.1| matrix protein 1, partial [Influenza A virus (A/Giurgiu/320/2009(H3N2))] &gt;gb|ADU02813.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/230/2009(H3N2))] &gt;gb|ADU02815.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/339/2009(H3N2))] &gt;gb|ADU02819.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/72.1.A/2009(H3N2))] &gt;gb|ADU02821.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/73.1.A/2009(H3N2))] &gt;gb|ADU02824.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/74.1.A/2009(H3N2))] &gt;gb|ADU02827.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/78.1.A/2009(H3N2))] &gt;gb|ADU02830.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/79.1.A/2009(H3N2))] &gt;gb|ADU02835.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/82.1.A/2009(H3N2))] &gt;gb|ADU02837.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/478/2009(H3N2))] &gt;gb|ADU02839.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/502/2009(H3N2))] &gt;gb|ADU02841.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/87.1.A/2009(H3N2))] &gt;gb|ADU02843.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/89.1.A/2009(H3N2))] &gt;gb|ADU02848.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/526/2009(H3N2))] &gt;gb|ADU02850.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/578/2009(H3N2))] &gt;gb|ADU02852.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/96.1.A/2009(H3N2))] &gt;gb|ADU02854.1| matrix protein 1, partial [Influenza A virus (A/Bucuresti/590/2009(H3N2))]</Hit_def>
+  <Hit_accession>ADU02761</Hit_accession>
+  <Hit_len>48</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>99.3673</Hsp_bit-score>
+      <Hsp_score>246</Hsp_score>
+      <Hsp_evalue>5.25286e-26</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>48</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>IASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>IASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>IASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gb|AAD33756.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/179/96(H3N2))]</Hit_def>
+  <Hit_accession>AAD33756</Hit_accession>
+  <Hit_len>238</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.29548e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>189</Hsp_hit-from>
+      <Hsp_hit-to>238</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gb|AAK18001.1|</Hit_id>
+  <Hit_def>membrane matrix protein M1 [Influenza A virus (A/Hong Kong/497/97(H3N2))] &gt;gb|AAK18003.1| membrane matrix protein M1 [Influenza A virus (A/Hong Kong/498/97(H3N2))]</Hit_def>
+  <Hit_accession>AAK18001</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.29568e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>gb|AGI01418.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Taiwan/53/2004(H3N2))]</Hit_def>
+  <Hit_accession>AGI01418</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.29958e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>201</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>gb|AAR12386.1|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/4361/99(H3N2))] &gt;gb|AAR12388.1| matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/7220/00(H3N2))] &gt;gb|AAR12390.1| matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/312/00(H3N2))] &gt;gb|AAR12392.1| matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/9285/01(H3N2))] &gt;gb|AAR12398.1| matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/74/02(H3N2))] &gt;gb|AAR12400.1| matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/411/02(H3N2))] &gt;gb|AAR12402.1| matrix protein M1, partial [Influenza A virus (A/swine/Hong Kong/1212/02(H3N2))] &gt;gb|ABR20723.1| matrix protein 1, partial [Influenza A virus (A/Berlin/90/98(H3N2))]</Hit_def>
+  <Hit_accession>AAR12386</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.35828e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>200</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>gb|ABC43520.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Canterbury/207/2004(H3N2))] &gt;gb|ABG88708.1| matrix protein 1 [Influenza A virus (A/Wellington/35/2004(H3N2))] &gt;gb|ABI92358.1| matrix protein 1 [Influenza A virus (A/Waikato/16/2004(H3N2))]</Hit_def>
+  <Hit_accession>ABC43520</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.41059e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gb|ABV55863.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/swine/Shandong/3/2005(H3N2))]</Hit_def>
+  <Hit_accession>ABV55863</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.41059e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>gb|ABD77852.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/New York/580/1996(H3N2))] &gt;gb|ABD79124.1| matrix protein 1 [Influenza A virus (A/New York/560/1997(H3N2))] &gt;gb|ABD79135.1| matrix protein 1 [Influenza A virus (A/New York/564/1997(H3N2))] &gt;gb|ABD79146.1| matrix protein 1 [Influenza A virus (A/New York/565/1996(H3N2))] &gt;gb|ABD79157.1| matrix protein 1 [Influenza A virus (A/New York/575/1996(H3N2))] &gt;gb|ABD79168.1| matrix protein 1 [Influenza A virus (A/New York/579/1997(H3N2))] &gt;gb|ABD79179.1| matrix protein 1 [Influenza A virus (A/New York/583/1997(H3N2))] &gt;gb|ABD79190.1| matrix protein 1 [Influenza A virus (A/New York/566/1997(H3N2))] &gt;gb|ABD79201.1| matrix protein 1 [Influenza A virus (A/New York/574/1996(H3N2))] &gt;gb|ABD79212.1| matrix protein 1 [Influenza A virus (A/New York/576/1997(H3N2))] &gt;gb|ABD79223.1| matrix protein 1 [Influenza A virus (A/New York/581/1997(H3N2))] &gt;gb|ABD79234.1| matrix protein 1 [Influenza A virus (A/New York/587/1996(H3N2))] &gt;gb|ABD94900.1| matrix protein 1 [Influenza A virus (A/New York/594/1996(H3N2))] &gt;gb|ABD94933.1| matrix protein 1 [Influenza A virus (A/New York/600/1996(H3N2))] &gt;gb|ABE13086.1| matrix protein 1 [Influenza A virus (A/New York/572/1996(H3N2))] &gt;gb|ABF82696.1| matrix protein 1 [Influenza A virus (A/New York/599/1996(H3N2))] &gt;gb|ACC60431.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK4147/1997(H3N2))]</Hit_def>
+  <Hit_accession>ABD77852</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.46898e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>ref|YP_308841.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/New York/392/2004(H3N2))] &gt;gb|AAY46437.1| matrix protein 1 [Influenza A virus (A/New York/250/1998(H3N2))] &gt;gb|AAY64403.1| matrix protein 1 [Influenza A virus (A/New York/287/1998(H3N2))] &gt;gb|AAZ38474.1| matrix protein 1 [Influenza A virus (A/New York/324/1999(H3N2))] &gt;gb|AAZ38485.1| matrix protein 1 [Influenza A virus (A/New York/331/1999(H3N2))] &gt;gb|AAZ38507.1| matrix protein 1 [Influenza A virus (A/New York/359/2005(H3N2))] &gt;gb|AAZ38573.1| matrix protein 1 [Influenza A virus (A/New York/387/2004(H3N2))] &gt;gb|AAZ38584.1| matrix protein 1 [Influenza A virus (A/New York/379/2004(H3N2))] &gt;gb|AAZ38606.1| matrix protein 1 [Influenza A virus (A/New York/382/2005(H3N2))] &gt;gb|AAZ38651.1| matrix protein 1 [Influenza A virus (A/New York/244/2004(H3N2))] &gt;gb|AAZ74398.1| matrix protein 1 [Influenza A virus (A/New York/316/1999(H3N2))] &gt;gb|AAZ74541.1| matrix protein 1 [Influenza A virus (A/New York/383/2004(H3N2))] &gt;gb|AAZ74596.1| matrix protein 1 [Influenza A virus (A/New York/207/2004(H3N2))] &gt;gb|AAZ79628.1| matrix protein 1 [Influenza A virus (A/New York/334/2004(H3N2))] &gt;gb|AAZ79964.1| matrix protein 1 [Influenza A virus (A/New York/373/2005(H3N2))] &gt;gb|AAZ79975.1| matrix protein 1 [Influenza A virus (A/New York/384/2005(H3N2))] &gt;gb|AAZ83372.1| matrix protein 1 [Influenza A virus (A/New York/358/2004(H3N2))] &gt;gb|AAZ83650.1| matrix protein 1 [Influenza A virus (A/New York/380/2004(H3N2))] &gt;gb|ABA12782.1| matrix protein 1 [Influenza A virus (A/New York/394/2005(H3N2))] &gt;gb|ABA26712.1| matrix protein 1 [Influenza A virus (A/Christchurch/13/2004(H3N2))] &gt;gb|ABA26734.1| matrix protein 1 [Influenza A virus (A/Christchurch/14/2004(H3N2))] &gt;gb|ABA26745.1| matrix protein 1 [Influenza A virus (A/Christchurch/89/2004(H3N2))] &gt;gb|ABA26756.1| matrix protein 1 [Influenza A virus (A/Christchurch/90/2004(H3N2))] &gt;gb|ABA26767.1| matrix protein 1 [Influenza A virus (A/Christchurch/184/2004(H3N2))] &gt;gb|ABA26789.1| matrix protein 1 [Influenza A virus (A/Christchurch/297/2004(H3N2))] &gt;gb|ABA26800.1| matrix protein 1 [Influenza A virus (A/Christchurch/339/2004(H3N2))] &gt;gb|ABA42292.1| matrix protein 1 [Influenza A virus (A/New York/395/2005(H3N2))] &gt;gb|ABA43168.1| matrix protein 1 [Influenza A virus (A/New York/364/2004(H3N2))] &gt;gb|ABB02837.1| matrix protein 1 [Influenza A virus (A/New York/236/2004(H3N2))] &gt;gb|ABB46459.1| matrix protein 1 [Influenza A virus (A/New York/470/2004(H3N2))] &gt;gb|ABB53653.1| matrix protein 1 [Influenza A virus (A/New York/206/2005(H3N2))] &gt;gb|ABB53675.1| matrix protein 1 [Influenza A virus (A/New York/243/2005(H3N2))] &gt;gb|ABC42597.1| matrix protein 1 [Influenza A virus (A/Whanganui/128/2004(H3N2))] &gt;gb|ABC42608.1| matrix protein 1 [Influenza A virus (A/Bay of Plenty/279/2004(H3N2))] &gt;gb|ABC42630.1| matrix protein 1 [Influenza A virus (A/Tairawhiti/369/2004(H3N2))] &gt;gb|ABC42641.1| matrix protein 1 [Influenza A virus (A/Whanganui/417/2004(H3N2))] &gt;gb|ABC42652.1| matrix protein 1 [Influenza A virus (A/Canterbury/12/2004(H3N2))] &gt;gb|ABC42663.1| matrix protein 1 [Influenza A virus (A/Canterbury/18/2004(H3N2))] &gt;gb|ABC42674.1| matrix protein 1 [Influenza A virus (A/Canterbury/19/2004(H3N2))] &gt;gb|ABC42685.1| matrix protein 1 [Influenza A virus (A/Canterbury/20/2004(H3N2))] &gt;gb|ABC42696.1| matrix protein 1 [Influenza A virus (A/Canterbury/23/2004(H3N2))] &gt;gb|ABC42707.1| matrix protein 1 [Influenza A virus (A/Canterbury/102/2004(H3N2))] &gt;gb|ABC42718.1| matrix protein 1 [Influenza A virus (A/Canterbury/103/2004(H3N2))] &gt;gb|ABC42729.1| matrix protein 1 [Influenza A virus (A/Canterbury/104/2004(H3N2))] &gt;gb|ABC42740.1| matrix protein 1 [Influenza A virus (A/Canterbury/105/2004(H3N2))] &gt;gb|ABC42762.1| matrix protein 1 [Influenza A virus (A/Canterbury/107/2004(H3N2))] &gt;gb|ABC42773.1| matrix protein 1 [Influenza A virus (A/Canterbury/201/2004(H3N2))] &gt;gb|ABC42784.1| matrix protein 1 [Influenza A virus (A/Canterbury/202/2004(H3N2))] &gt;gb|ABC42795.1| matrix protein 1 [Influenza A virus (A/Canterbury/205/2004(H3N2))] &gt;gb|ABC42806.1| matrix protein 1 [Influenza A virus (A/Canterbury/206/2004(H3N2))] &gt;gb|ABC42817.1| matrix protein 1 [Influenza A virus (A/Canterbury/209/2004(H3N2))] &gt;gb|ABC42828.1| matrix protein 1 [Influenza A virus (A/Canterbury/303/2004(H3N2))] &gt;gb|ABC42839.1| matrix protein 1 [Influenza A virus (A/Canterbury/304/2004(H3N2))] &gt;gb|ABC42850.1| matrix protein 1 [Influenza A virus (A/Canterbury/311/2004(H3N2))] &gt;gb|ABC42861.1| matrix protein 1 [Influenza A virus (A/Canterbury/315/2004(H3N2))] &gt;gb|ABC43128.1| matrix protein 1 [Influenza A virus (A/Whanganui/129/2004(H3N2))] &gt;gb|ABC43139.1| matrix protein 1 [Influenza A virus (A/Bay of Plenty/383/2004(H3N2))] &gt;gb|ABC43150.1| matrix protein 1 [Influenza A virus (A/Whanganui/386/2004(H3N2))] &gt;gb|ABC43161.1| matrix protein 1 [Influenza A virus (A/Canterbury/11/2004(H3N2))] &gt;gb|ABC43172.1| matrix protein 1 [Influenza A virus (A/Canterbury/16/2004(H3N2))] &gt;gb|ABC43183.1| matrix protein 1 [Influenza A virus (A/Canterbury/17/2004(H3N2))] &gt;gb|ABC43476.1| matrix protein 1 [Influenza A virus (A/Canterbury/21/2004(H3N2))] &gt;gb|ABC43487.1| matrix protein 1 [Influenza A virus (A/Canterbury/24/2004(H3N2))] &gt;gb|ABC43498.1| matrix protein 1 [Influenza A virus (A/Canterbury/100/2004(H3N2))] &gt;gb|ABC43531.1| matrix protein 1 [Influenza A virus (A/Canterbury/208/2004(H3N2))] &gt;gb|ABC43542.1| matrix protein 1 [Influenza A virus (A/Canterbury/210/2004(H3N2))] &gt;gb|ABC67555.1| matrix protein 1 [Influenza A virus (A/Canterbury/16/2005(H3N2))] &gt;gb|ABC67588.1| matrix protein 1 [Influenza A virus (A/Canterbury/108/2004(H3N2))] &gt;gb|ABC67599.1| matrix protein 1 [Influenza A virus (A/Canterbury/109/2004(H3N2))] &gt;gb|ABC67698.1| matrix protein 1 [Influenza A virus (A/Canterbury/127/2005(H3N2))] &gt;gb|ABC84434.1| matrix protein 1 [Influenza A virus (A/Canterbury/309/2004(H3N2))] &gt;gb|ABC85997.1| matrix protein 1 [Influenza A virus (A/Canterbury/312/2004(H3N2))] &gt;gb|ABC86008.1| matrix protein 1 [Influenza A virus (A/Canterbury/310/2004(H3N2))] &gt;gb|ABC86019.1| matrix protein 1 [Influenza A virus (A/Canterbury/308/2004(H3N2))] &gt;gb|ABD15527.1| matrix protein 1 [Influenza A virus (A/New York/73/2004(H3N2))] &gt;gb|ABD59897.1| M1 [Influenza A virus (A/TW/36/04(H3N2))] &gt;gb|ABD59899.1| M1 [Influenza A virus (A/Taiwan/220/2004(H3N2))] &gt;gb|ABD94735.1| matrix protein 1 [Influenza A virus (A/Whanganui/127/2004(H3N2))] &gt;gb|ABG48259.1| matrix protein 1 [Influenza A virus (A/Wellington/01/2004(H3N2))] &gt;gb|ABG48270.1| matrix protein 1 [Influenza A virus (A/Wellington/6/2004(H3N2))] &gt;gb|ABG80272.1| matrix protein 1 [Influenza A virus (A/Wellington/14/2004(H3N2))] &gt;gb|ABG80294.1| matrix protein 1 [Influenza A virus (A/Wellington/22/2004(H3N2))] &gt;gb|ABG80305.1| matrix protein 1 [Influenza A virus (A/Wellington/31/2004(H3N2))] &gt;gb|ABG80316.1| matrix protein 1 [Influenza A virus (A/Waikato/21/2004(H3N2))] &gt;gb|ABG80327.1| matrix protein 1 [Influenza A virus (A/Wellington/52/2004(H3N2))] &gt;gb|ABG80338.1| matrix protein 1 [Influenza A virus (A/Waikato/40/2004(H3N2))] &gt;gb|ABG88719.1| matrix protein 1 [Influenza A virus (A/Wellington/45/2004(H3N2))] &gt;gb|ABG91460.1| matrix protein 1 [Influenza A virus (A/Taiwan/51/2005(H3N2))] &gt;gb|ABG91462.1| matrix protein 1 [Influenza A virus (A/Malaysia/99/2005(H3N2))] &gt;gb|ABG91494.1| matrix protein 1 [Influenza A virus (A/Thailand/151/2005(H3N2))] &gt;gb|ABI21069.1| matrix protein 1 [Influenza A virus (A/Wellington/23/2004(H3N2))] &gt;gb|ABI21080.1| matrix protein 1 [Influenza A virus (A/Waikato/12/2004(H3N2))] &gt;gb|ABI21091.1| matrix protein 1 [Influenza A virus (A/Wellington/18/2004(H3N2))] &gt;gb|ABI21102.1| matrix protein 1 [Influenza A virus (A/Wellington/44/2004(H3N2))] &gt;gb|ABI21113.1| matrix protein 1 [Influenza A virus (A/Wellington/38/2004(H3N2))] &gt;gb|ABI21124.1| matrix protein 1 [Influenza A virus (A/Waikato/22/2004(H3N2))] &gt;gb|ABI21135.1| matrix protein 1 [Influenza A virus (A/Wellington/58/2004(H3N2))] &gt;gb|ABI21146.1| matrix protein 1 [Influenza A virus (A/Waikato/35/2004(H3N2))] &gt;gb|ABI21157.1| matrix protein 1 [Influenza A virus (A/Waikato/43/2004(H3N2))] &gt;gb|ABI21168.1| matrix protein 1 [Influenza A virus (A/Waikato/45/2004(H3N2))] &gt;gb|ABI26647.1| matrix protein 1 [Influenza A virus (A/Waikato/26/2004(H3N2))] &gt;gb|ABI30434.1| matrix protein 1 [Influenza A virus (A/Waikato/3/2004(H3N2))] &gt;gb|ABI30478.1| matrix protein 1 [Influenza A virus (A/Waikato/56/2004(H3N2))] &gt;gb|ABI30489.1| matrix protein 1 [Influenza A virus (A/Waikato/64/2004(H3N2))] &gt;gb|ABI30500.1| matrix protein 1 [Influenza A virus (A/Waikato/68/2004(H3N2))] &gt;gb|ABI30511.1| matrix protein 1 [Influenza A virus (A/Waikato/69/2004(H3N2))] &gt;gb|ABI30522.1| matrix protein 1 [Influenza A virus (A/Waikato/71/2004(H3N2))] &gt;gb|ABI30533.1| matrix protein 1 [Influenza A virus (A/Wellington/64/2004(H3N2))] &gt;gb|ABI30544.1| matrix protein 1 [Influenza A virus (A/Waikato/72/2004(H3N2))] &gt;gb|ABI30555.1| matrix protein 1 [Influenza A virus (A/Waikato/73/2004(H3N2))] &gt;gb|ABI30577.1| matrix protein 1 [Influenza A virus (A/Waikato/1/2005(H3N2))] &gt;gb|ABI92391.1| matrix protein 1 [Influenza A virus (A/Waikato/2/2005(H3N2))] &gt;gb|ABI92787.1| matrix protein 1 [Influenza A virus (A/Western Australia/51/2004(H3N2))] &gt;gb|ABI92798.1| matrix protein 1 [Influenza A virus (A/Western Australia/52/2004(H3N2))] &gt;gb|ABI92809.1| matrix protein 1 [Influenza A virus (A/Western Australia/53/2004(H3N2))] &gt;gb|ABI92820.1| matrix protein 1 [Influenza A virus (A/Western Australia/54/2004(H3N2))] &gt;gb|ABI92842.1| matrix protein 1 [Influenza A virus (A/Western Australia/56/2004(H3N2))] &gt;gb|ABI92853.1| matrix protein 1 [Influenza A virus (A/Western Australia/57/2004(H3N2))] &gt;gb|ABI92875.1| matrix protein 1 [Influenza A virus (A/Western Australia/59/2004(H3N2))] &gt;gb|ABI92886.1| matrix protein 1 [Influenza A virus (A/Western Australia/60/2004(H3N2))] &gt;gb|ABI92919.1| matrix protein 1 [Influenza A virus (A/Western Australia/63/2004(H3N2))] &gt;gb|ABI92941.1| matrix protein 1 [Influenza A virus (A/Western Australia/65/2005(H3N2))] &gt;gb|ABJ09163.1| matrix protein 1 [Influenza A virus (A/Wellington/61/2004(H3N2))] &gt;gb|ABJ09174.1| matrix protein 1 [Influenza A virus (A/Waikato/70/2004(H3N2))] &gt;gb|ABJ16632.1| matrix protein 1 [Influenza A virus (A/South Australia/23/2005(H3N2))] &gt;gb|ABK40018.1| matrix protein 1 [Influenza A virus (A/South Australia/22/2005(H3N2))] &gt;gb|ABL67386.1| matrix protein 1 [Influenza A virus (A/Queensland/43/2004(H3N2))] &gt;gb|ABO32791.1| matrix protein 1 [Influenza A virus (A/Queensland/45/2004(H3N2))] &gt;gb|ABO38077.1| matrix protein 1 [Influenza A virus (A/South Australia/61/2005(H3N2))] &gt;gb|ABO38253.1| matrix protein 1 [Influenza A virus (A/Wellington/55/2004(H3N2))] &gt;gb|ABO52072.1| matrix protein 1 [Influenza A virus (A/Waikato/31/2004(H3N2))] &gt;gb|ABP49405.1| matrix protein 1 [Influenza A virus (A/South Australia/53/2005(H3N2))] &gt;gb|ABR28923.1| matrix protein 1 [Influenza A virus (A/Auckland/621/2005(H3N2))] &gt;gb|ABW81663.1| matrix protein 1 [Influenza A virus (A/Wellington/03/2003(H3N2))] &gt;gb|ABW81665.1| matrix protein 1 [Influenza A virus (A/California/07/2004(H3N2))] &gt;gb|ABY75080.1| M1 protein [Influenza A virus (A/Nordrhein-Westfalen/135/2003(H3N2))] &gt;gb|ABY75082.1| M1 protein [Influenza A virus (A/Rheinland-Pfalz/65/2003(H3N2))] &gt;gb|ABY75086.1| M1 protein [Influenza A virus (A/Berlin/11/2004(H3N2))] &gt;gb|ABY75090.1| M1 protein [Influenza A virus (A/Hannover/36/2004(H3N2))] &gt;gb|ABY75096.1| M1 protein [Influenza A virus (A/Mecklenburg-Vorpommern/2/2004(H3N2))] &gt;gb|ABY75116.1| M1 protein [Influenza A virus (A/Niedersachsen/2813/2005(H3N2))] &gt;gb|ACC60799.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK74438/2003(H3N2))] &gt;gb|ACC60805.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK83422/2003(H3N2))] &gt;gb|ACC60835.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK33894/2004(H3N2))] &gt;gb|ACC60837.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK35011/2004(H3N2))] &gt;gb|ACC60841.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK35117/2004(H3N2))] &gt;gb|ACC60843.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK35435/2004(H3N2))] &gt;gb|ACC60845.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK50372/2004(H3N2))] &gt;gb|ACC60853.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK52390/2004(H3N2))] &gt;gb|ACC60869.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK5567/2005(H3N2))] &gt;gb|ACC60875.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK7047/2005(H3N2))] &gt;gb|ACC60881.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK7670/2005(H3N2))] &gt;gb|ACC60887.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK8333/2005(H3N2))] &gt;gb|ACD62282.1| matrix protein 1 [Influenza A virus (A/California/7/2004(H3N2))] &gt;gb|ACM45810.1| matrix protein 1 [Influenza A virus (A/Babol/37/2005(H3N2))] &gt;gb|ACO94926.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU9/2004(H3N2))] &gt;gb|ACO94959.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU15/2004(H3N2))] &gt;gb|ACO95227.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU45/2005(H3N2))] &gt;gb|ACO95438.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU24/2004(H3N2))] &gt;gb|ACO95449.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU44/2005(H3N2))] &gt;gb|ACP44237.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU1/2004(H3N2))] &gt;gb|ACR15525.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU18/2004(H3N2))] &gt;gb|ACT21523.1| matrix protein 1 [Influenza A virus (A/Canterbury/200/2004(H3N2))] &gt;gb|AEG65187.1| matrix protein 1 [Influenza A virus (A/Georgia/NHRC0001/2005(H3N2))] &gt;gb|AEG65220.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0001/2003(H3N2))] &gt;gb|AEG65231.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0005/2003(H3N2))] &gt;gb|AEG65253.1| matrix protein 1 [Influenza A virus (A/California/NHRC0003/2003(H3N2))] &gt;gb|AEG65308.1| matrix protein 1 [Influenza A virus (A/California/NHRC0004/2003(H3N2))] &gt;gb|AEG65330.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0012/2003(H3N2))] &gt;gb|AEG65352.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0009/2003(H3N2))] &gt;gb|AEG65363.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0008/2003(H3N2))] &gt;gb|AEG65550.1| matrix protein 1 [Influenza A virus (A/Australia/NHRC0005/2005(H3N2))] &gt;gb|AEG65561.1| matrix protein 1 [Influenza A virus (A/Australia/NHRC0004/2005(H3N2))] &gt;gb|AEG65572.1| matrix protein 1 [Influenza A virus (A/Australia/NHRC0003/2005(H3N2))] &gt;gb|AEG65594.1| matrix protein 1 [Influenza A virus (A/Australia/NHRC0001/2005(H3N2))] &gt;gb|AEG65605.1| matrix protein 1 [Influenza A virus (A/California/NHRC0002/2005(H3N2))] &gt;gb|AEG65616.1| matrix protein 1 [Influenza A virus (A/Malaysia/NHRC0003/2004(H3N2))] &gt;gb|AEG65627.1| matrix protein 1 [Influenza A virus (A/Malaysia/NHRC0002/2004(H3N2))] &gt;gb|AEG65638.1| matrix protein 1 [Influenza A virus (A/Malaysia/NHRC0001/2004(H3N2))] &gt;gb|AEG65660.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0006/2003(H3N2))] &gt;gb|AEG65671.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0004/2003(H3N2))] &gt;gb|AEG65682.1| matrix protein 1 [Influenza A virus (A/Singapore/NHRC0003/2003(H3N2))] &gt;gb|AEG65770.1| matrix protein 1 [Influenza A virus (A/California/NHRC0009/2005(H3N2))] &gt;gb|AEI54425.1| matrix protein 1 [Influenza A virus (A/California/NHRC0010/2005(H3N2))] &gt;gb|AER24228.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU114/2004(H3N2))] &gt;gb|AER24272.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU118/2004(H3N2))] &gt;gb|AER24294.1| matrix protein 1 [Influenza A virus (A/Hong Kong/HKU120/2004(H3N2))] &gt;gb|AEX33465.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN152/2003(H3N2))] &gt;gb|AEX33476.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN170/2003(H3N2))] &gt;gb|AEX33487.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN171/2003(H3N2))] &gt;gb|AEX33498.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN83/2003(H3N2))] &gt;gb|AEX33509.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN85/2003(H3N2))] &gt;gb|AEX33520.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN92/2003(H3N2))] &gt;gb|AEX33531.1| matrix protein 1 [Influenza A virus (A/BacGiang/BG003/2004(H3N2))] &gt;gb|AEX33553.1| matrix protein 1 [Influenza A virus (A/NamDinh/HN30119/2004(H3N2))] &gt;gb|AEX33564.1| matrix protein 1 [Influenza A virus (A/HaNoi/HN30127/2004(H3N2))] &gt;gb|AEX33575.1| matrix protein 1 [Influenza A virus (A/HaNoi/HN30136/2004(H3N2))] &gt;gb|AEX33586.1| matrix protein 1 [Influenza A virus (A/HaNoi/HN30108/2004(H3N2))] &gt;gb|AEX33597.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN30109/2004(H3N2))] &gt;gb|AEX33608.1| matrix protein 1 [Influenza A virus (A/HungYen/HY028/2004(H3N2))] &gt;gb|AEX33619.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN46/2004(H3N2))] &gt;gb|AEX33630.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN49/2004(H3N2))] &gt;gb|AEX33641.1| matrix protein 1 [Influenza A virus (A/HaNoi/ISBM16/2005(H3N2))] &gt;gb|AEX35286.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN160/2003(H3N2))] &gt;gb|AEX35297.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN186/2003(H3N2))] &gt;gb|AEX35319.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN905/2003(H3N2))] &gt;gb|AEX35352.1| matrix protein 1 [Influenza A virus (A/HaNoi/HN30130/2004(H3N2))] &gt;gb|AEX35363.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN30135/2004(H3N2))] &gt;gb|AEX35374.1| matrix protein 1 [Influenza A virus (A/HaNoi/HN30137/2004(H3N2))] &gt;gb|AEX35385.1| matrix protein 1 [Influenza A virus (A/HaNoi/HN30147/2004(H3N2))] &gt;gb|AEX35407.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN3069/2004(H3N2))] &gt;gb|AEX35418.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN3094/2004(H3N2))] &gt;gb|AEX35550.1| matrix protein 1 [Influenza A virus (A/TayNguyen/TN393/2005(H3N2))] &gt;gb|AEX36620.1| matrix protein 1 [Influenza A virus (A/HaNoi/311/2005(H3N2))] &gt;gb|AFD64069.1| matrix protein 1 [Influenza A virus (A/England/558/2003(H3N2))] &gt;gb|AFG72890.1| matrix protein 1 [Influenza A virus (A/Netherlands/132/2004(H3N2))] &gt;gb|AFJ74832.1| matrix protein 1 [Influenza A virus (A/Malaysia/26227/2003(H3N2))] &gt;gb|AFJ77793.1| matrix protein 1 [Influenza A virus (A/Malaysia/26430/2003(H3N2))] &gt;gb|AFJ77804.1| matrix protein 1 [Influenza A virus (A/Malaysia/26468/2003(H3N2))] &gt;gb|AFJ77815.1| matrix protein 1 [Influenza A virus (A/Malaysia/26571/2003(H3N2))] &gt;gb|AFJ77837.1| matrix protein 1 [Influenza A virus (A/Malaysia/26822/2004(H3N2))] &gt;gb|AFJ77848.1| matrix protein 1 [Influenza A virus (A/Malaysia/26989/2004(H3N2))] &gt;gb|AFJ77859.1| matrix protein 1 [Influenza A virus (A/Malaysia/28114/2004(H3N2))] &gt;gb|AFJ77870.1| matrix protein 1 [Influenza A virus (A/Malaysia/28991/2004(H3N2))] &gt;gb|AFJ77881.1| matrix protein 1 [Influenza A virus (A/Malaysia/29197/2004(H3N2))] &gt;gb|AFJ77892.1| matrix protein 1 [Influenza A virus (A/Malaysia/29242/2004(H3N2))] &gt;gb|AFJ77903.1| matrix protein 1 [Influenza A virus (A/Malaysia/29255/2004(H3N2))] &gt;gb|AFJ77914.1| matrix protein 1 [Influenza A virus (A/Malaysia/29350/2004(H3N2))] &gt;gb|AFJ77925.1| matrix protein 1 [Influenza A virus (A/Malaysia/29361/2004(H3N2))] &gt;gb|AFJ77936.1| matrix protein 1 [Influenza A virus (A/Malaysia/29711/2004(H3N2))] &gt;gb|AFJ77947.1| matrix protein 1 [Influenza A virus (A/Malaysia/29890/2004(H3N2))] &gt;gb|AFJ77958.1| matrix protein 1 [Influenza A virus (A/Malaysia/29930/2004(H3N2))] &gt;gb|AGA19003.1| matrix protein 1 [Influenza A virus (A/swine/Colombo/48/2004(H3N2))] &gt;gb|AGA19005.1| matrix protein 1 [Influenza A virus (A/Ragama/143/2003(H3N2))] &gt;gb|AGA19007.1| matrix protein 1 [Influenza A virus (A/Ragama/159/2003(H3N2))] &gt;gb|AGA19011.1| matrix protein 1 [Influenza A virus (A/Ragama/190/2003(H3N2))] &gt;gb|AGI01430.1| matrix protein 1 [Influenza A virus (A/Taiwan/1115/2004(H3N2))] &gt;gb|AGI01434.1| matrix protein 1 [Influenza A virus (A/Taiwan/13/2005(H3N2))] &gt;gb|AGI01438.1| matrix protein 1 [Influenza A virus (A/Taiwan/45/2005(H3N2))] &gt;gb|AGI01448.1| matrix protein 1 [Influenza A virus (A/Taiwan/16/2005(H3N2))] &gt;gb|AGM53869.1| matrix protein 1 [Influenza A virus (A/India/C058671/2005(H3N2))] &gt;gb|AIY54975.1| matrix protein 1 [Influenza A virus (A/Sofia/684/2004(H3N2))] &gt;gb|AIY54979.1| matrix protein 1 [Influenza A virus (A/Sofia/747/2004(H3N2))] &gt;gb|AIY54983.1| matrix protein 1 [Influenza A virus (A/Sofia/1247/2006(H3N2))] &gt;gb|ATU90039.1| matrix protein 1 [Influenza A virus (A/Missouri/31/2017(H3N2))] &gt;dbj|BAF57531.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN3068/2004(H3N2))] &gt;dbj|BAF57549.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN30138/2004(H3N2))] &gt;dbj|BAF57553.1| matrix protein 1 [Influenza A virus (A/Hanoi/HN30188/2004(H3N2))] &gt;dbj|BAF57557.1| matrix protein 1 [Influenza A virus (A/Hanoi/ND049/2004(H3N2))] &gt;dbj|BAF57565.1| matrix protein 1 [Influenza A virus (A/Hanoi/ISBM69/2005(H3N2))] &gt;dbj|BAF62622.1| matrix protein 1 [Influenza A virus (A/Hanoi/BG003/2004(H3N2))] &gt;dbj|BAI45074.1| matrix protein 1 [Influenza A virus (A/Thailand/160/2006(H3N2))] &gt;dbj|BAI45078.1| matrix protein 1 [Influenza A virus (A/Thailand/166/2006(H3N2))] &gt;dbj|BAI45096.1| matrix protein 1 [Influenza A virus (A/Thailand/380/2007(H3N2))]</Hit_def>
+  <Hit_accession>YP_308841</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.46898e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>dbj|BAF57581.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Hanoi/TB285/2005(H3N2))]</Hit_def>
+  <Hit_accession>BAF57581</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.46898e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>gb|ACJ67536.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/ferret/Maryland/P10-UMD/2008(H9N2))]</Hit_def>
+  <Hit_accession>ACJ67536</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.46898e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>75</Hit_num>
+  <Hit_id>emb|CAD30536.1|</Hit_id>
+  <Hit_def>Matrix protein 1 [Influenza A virus (A/Sri lanka/9/98(H3N2))]</Hit_def>
+  <Hit_accession>CAD30536</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.52799e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>76</Hit_num>
+  <Hit_id>gb|ABB51969.1|</Hit_id>
+  <Hit_def>M1 protein [Influenza A virus (A/Taiwan/2332/2001(H3N2))]</Hit_def>
+  <Hit_accession>ABB51969</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.52799e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>77</Hit_num>
+  <Hit_id>gb|ACT21527.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Canterbury/200/2004(H3N2))]</Hit_def>
+  <Hit_accession>ACT21527</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.58765e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>78</Hit_num>
+  <Hit_id>gb|ABB51973.1|</Hit_id>
+  <Hit_def>M1 protein [Influenza A virus (A/Taiwan/31001/2004(H3N2))]</Hit_def>
+  <Hit_accession>ABB51973</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.64794e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>79</Hit_num>
+  <Hit_id>gb|ASB32350.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/California/NHRC_FDX12006/2017(H3N2))] &gt;gb|ASB32384.1| matrix protein 1, partial [Influenza A virus (A/Georgia/NHRC_68641/2017(H3N2))] &gt;gb|ASB32386.1| matrix protein 1, partial [Influenza A virus (A/Georgia/NHRC_68650/2017(H3N2))] &gt;gb|ASB32405.1| matrix protein 1, partial [Influenza A virus (A/South Carolina/NHRC_75607/2017(H3N2))] &gt;gb|ASW34168.1| matrix protein 1, partial [Influenza A virus (A/California/NHRC_SAR20902N/2017(H3N2))] &gt;gb|AYM50127.1| matrix protein 1, partial [Influenza A virus]</Hit_def>
+  <Hit_accession>ASB32350</Hit_accession>
+  <Hit_len>226</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>5.65613e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>177</Hsp_hit-from>
+      <Hsp_hit-to>226</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>80</Hit_num>
+  <Hit_id>gb|AFJ77562.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Malaysia/12726/1997(H3N2))]</Hit_def>
+  <Hit_accession>AFJ77562</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.70889e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>81</Hit_num>
+  <Hit_id>gb|AAD33758.2|</Hit_id>
+  <Hit_def>matrix protein M1, partial [Influenza A virus (A/Taiwan/1600/96(H3N2))]</Hit_def>
+  <Hit_accession>AAD33758</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.71208e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>239</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>82</Hit_num>
+  <Hit_id>gb|EFX4556641.1|</Hit_id>
+  <Hit_def>hypothetical protein [Shigella flexneri] &gt;gb|EGC2302538.1| hypothetical protein [Salmonella enterica subsp. enterica serovar Infantis]</Hit_def>
+  <Hit_accession>EFX4556641</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.77494e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>201</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>83</Hit_num>
+  <Hit_id>gb|ACZ53959.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/swine/Jilin/5/2007(H3N2))] &gt;gb|ACZ53970.1| matrix protein 1, partial [Influenza A virus (A/swine/Jilin/19/2007(H3N2))]</Hit_def>
+  <Hit_accession>ACZ53959</Hit_accession>
+  <Hit_len>249</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.77663e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>200</Hsp_hit-from>
+      <Hsp_hit-to>249</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>84</Hit_num>
+  <Hit_id>gb|ABU40968.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/South Korea/AF1092/2007(H3N2))]</Hit_def>
+  <Hit_accession>ABU40968</Hit_accession>
+  <Hit_len>224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>5.82804e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>175</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>85</Hit_num>
+  <Hit_id>gb|ACT21520.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Canterbury/200/2004(H3N2))]</Hit_def>
+  <Hit_accession>ACT21520</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.83276e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>86</Hit_num>
+  <Hit_id>gb|ACT21530.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Canterbury/200/2004(H3N2))]</Hit_def>
+  <Hit_accession>ACT21530</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.83276e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>87</Hit_num>
+  <Hit_id>gb|AGV74420.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/swine/Henan/1/2010(H3N2))]</Hit_def>
+  <Hit_accession>AGV74420</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.83276e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>88</Hit_num>
+  <Hit_id>gb|AFG72428.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Oslo/244/1997(H3N2))]</Hit_def>
+  <Hit_accession>AFG72428</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.8957e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>89</Hit_num>
+  <Hit_id>gb|ABA26723.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Christchurch/15/2004(H3N2))]</Hit_def>
+  <Hit_accession>ABA26723</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.8957e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>90</Hit_num>
+  <Hit_id>gb|AFC18638.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Hong Kong/1144/1999(H3N2))] &gt;gb|AFC18640.1| matrix protein 1, partial [Influenza A virus (A/Hong Kong/1179/1999(H3N2))] &gt;gb|AFC18642.1| matrix protein 1, partial [Influenza A virus (A/Hong Kong/1180/1999(H3N2))]</Hit_def>
+  <Hit_accession>AFC18638</Hit_accession>
+  <Hit_len>243</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.76</Hsp_bit-score>
+      <Hsp_score>260</Hsp_score>
+      <Hsp_evalue>5.90489e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>91</Hit_num>
+  <Hit_id>emb|CAD30540.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Thessalonika/12/97(H3N2))]</Hit_def>
+  <Hit_accession>CAD30540</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.95932e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>92</Hit_num>
+  <Hit_id>gb|ACC60453.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10276/1998(H3N2))]</Hit_def>
+  <Hit_accession>ACC60453</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.95932e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>93</Hit_num>
+  <Hit_id>gb|ACF49408.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/swine/Sichuan/01/2006(H3N2))]</Hit_def>
+  <Hit_accession>ACF49408</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.95932e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>94</Hit_num>
+  <Hit_id>gb|ABD79245.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/New York/590/1996(H3N2))] &gt;gb|ABD94889.1| matrix protein 1 [Influenza A virus (A/New York/592/1996(H3N2))] &gt;gb|AFG72692.1| matrix protein 1 [Influenza A virus (A/Hong Kong/1/1997(H3N2))] &gt;gb|AFG72714.1| matrix protein 1 [Influenza A virus (A/Johannesburg/10/1997(H3N2))] &gt;gb|AFG72736.1| matrix protein 1 [Influenza A virus (A/Oslo/21/1997(H3N2))]</Hit_def>
+  <Hit_accession>ABD79245</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.95932e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>95</Hit_num>
+  <Hit_id>gb|AAK70433.1|</Hit_id>
+  <Hit_def>matrix protein M1 [Influenza A virus (A/Hong Kong/1143/99(H3N2))] &gt;gb|AAL30480.1| matrix protein M1, partial [Influenza A virus (A/Swine/Hong Kong/2405/98(H3N2))] &gt;gb|AAL30482.1| matrix protein M1, partial [Influenza A virus (A/Swine/Hong Kong/2429/98(H3N2))] &gt;gb|AAY46372.1| matrix protein 1 [Influenza A virus (A/New York/263/1999(H3N2))] &gt;gb|AAY64193.1| matrix protein 1 [Influenza A virus (A/New York/247/1998(H3N2))] &gt;gb|AAY64303.1| matrix protein 1 [Influenza A virus (A/New York/265/1999(H3N2))] &gt;gb|AAY98088.1| matrix protein 1 [Influenza A virus (A/New York/277/1999(H3N2))] &gt;gb|AAY98218.1| matrix protein 1 [Influenza A virus (A/New York/315/1999(H3N2))] &gt;gb|AAY98367.1| matrix protein 1 [Influenza A virus (A/New York/335/1999(H3N2))] &gt;gb|AAZ38463.1| matrix protein 1 [Influenza A virus (A/New York/278/1999(H3N2))] &gt;gb|AAZ38496.1| matrix protein 1 [Influenza A virus (A/New York/332/1999(H3N2))] &gt;gb|AAZ38728.1| M1 [Influenza A virus (A/Moscow/346/2003(H3N2))] &gt;gb|AAZ38730.1| M1 [Influenza A virus (A/Moscow/343/2003(H3N2))] &gt;gb|AAZ74364.1| matrix protein 1 [Influenza A virus (A/New York/283/1999(H3N2))] &gt;gb|AAZ83313.1| matrix protein 1 [Influenza A virus (A/New York/251/1998(H3N2))] &gt;gb|AAZ83324.1| matrix protein 1 [Influenza A virus (A/New York/339/1999(H3N2))] &gt;gb|ABB03014.1| matrix protein 1 [Influenza A virus (A/New York/456/1999(H3N2))] &gt;gb|ABB03036.1| matrix protein 1 [Influenza A virus (A/New York/458/1999(H3N2))] &gt;gb|ABB46426.1| matrix protein 1 [Influenza A virus (A/New York/455/1999(H3N2))] &gt;gb|ABB59997.1| matrix protein 1 [Influenza A virus (A/New York/505/1997(H3N2))] &gt;gb|ABB60008.1| matrix protein 1 [Influenza A virus (A/New York/517/1998(H3N2))] &gt;gb|ABB77854.1| matrix protein 1 [Influenza A virus (A/New York/503/1997(H3N2))] &gt;gb|ABB77865.1| matrix protein 1 [Influenza A virus (A/New York/508/1997(H3N2))] &gt;gb|ABB79717.1| matrix protein 1 [Influenza A virus (A/New York/515/1997(H3N2))] &gt;gb|ABB80082.1| matrix protein 1 [Influenza A virus (A/New York/512/1998(H3N2))] &gt;gb|ABB80093.1| matrix protein 1 [Influenza A virus (A/New York/516/1997(H3N2))] &gt;gb|ABB80149.1| matrix protein 1 [Influenza A virus (A/New York/501/1997(H3N2))] &gt;gb|ABB80160.1| matrix protein 1 [Influenza A virus (A/New York/509/1997(H3N2))] &gt;gb|ABB80197.1| matrix protein 1 [Influenza A virus (A/New York/519/1998(H3N2))] &gt;gb|ABB80208.1| matrix protein 1 [Influenza A virus (A/New York/520/1998(H3N2))] &gt;gb|ABB80219.1| matrix protein 1 [Influenza A virus (A/New York/528/1998(H3N2))] &gt;gb|ABB80241.1| matrix protein 1 [Influenza A virus (A/New York/534/1998(H3N2))] &gt;gb|ABB80252.1| matrix protein 1 [Influenza A virus (A/New York/539/1998(H3N2))] &gt;gb|ABB80493.1| matrix protein 1 [Influenza A virus (A/New York/522/1997(H3N2))] &gt;gb|ABB80504.1| matrix protein 1 [Influenza A virus (A/New York/523/1998(H3N2))] &gt;gb|ABB80515.1| matrix protein 1 [Influenza A virus (A/New York/524/1997(H3N2))] &gt;gb|ABB80530.1| matrix protein 1 [Influenza A virus (A/New York/531/1998(H3N2))] &gt;gb|ABB80642.1| matrix protein 1 [Influenza A virus (A/New York/532/1998(H3N2))] &gt;gb|ABB80662.1| matrix protein 1 [Influenza A virus (A/New York/533/1998(H3N2))] &gt;gb|ABB80683.1| matrix protein 1 [Influenza A virus (A/New York/542/1998(H3N2))] &gt;gb|ABB80694.1| matrix protein 1 [Influenza A virus (A/New York/543/1998(H3N2))] &gt;gb|ABB80705.1| matrix protein 1 [Influenza A virus (A/New York/545/1997(H3N2))] &gt;gb|ABB80733.1| matrix protein 1 [Influenza A virus (A/New York/547/1997(H3N2))] &gt;gb|ABB80735.1| matrix protein 1 [Influenza A virus (A/New York/548/1998(H3N2))] &gt;gb|ABB80738.1| matrix protein 1 [Influenza A virus (A/New York/546/1998(H3N2))] &gt;gb|ABB80749.1| matrix protein 1 [Influenza A virus (A/New York/525/1998(H3N2))] &gt;gb|ABB96532.1| matrix protein 1 [Influenza A virus (A/New York/535/1998(H3N2))] &gt;gb|ABC02235.1| matrix protein 1 [Influenza A virus (A/New York/506/1998(H3N2))] &gt;gb|ABC02300.1| matrix protein 1 [Influenza A virus (A/New York/538/1998(H3N2))] &gt;gb|ABC40609.1| matrix protein 1 [Influenza A virus (A/New York/460/1999(H3N2))] &gt;gb|ABC50168.1| matrix protein 1 [Influenza A virus (A/New York/510/1998(H3N2))] &gt;gb|ABC50179.1| matrix protein 1 [Influenza A virus (A/New York/511/1997(H3N2))] &gt;gb|ABC50190.1| matrix protein 1 [Influenza A virus (A/New York/513/1997(H3N2))] &gt;gb|ABC67577.1| matrix protein 1 [Influenza A virus (A/New York/526/1997(H3N2))] &gt;gb|ABC84412.1| matrix protein 1 [Influenza A virus (A/New York/502/1998(H3N2))] &gt;gb|ABD15538.1| matrix protein 1 [Influenza A virus (A/New York/544/1998(H3N2))] &gt;gb|ABD15549.1| matrix protein 1 [Influenza A virus (A/New York/549/1998(H3N2))] &gt;gb|ABD15560.1| matrix protein 1 [Influenza A virus (A/New York/540/1998(H3N2))] &gt;gb|ABD15571.1| matrix protein 1 [Influenza A virus (A/New York/530/1998(H3N2))] &gt;gb|ABD15582.1| matrix protein 1 [Influenza A virus (A/New York/529/1998(H3N2))] &gt;gb|ABD15593.1| matrix protein 1 [Influenza A virus (A/New York/514/1998(H3N2))] &gt;gb|ABD15604.1| matrix protein 1 [Influenza A virus (A/New York/507/1997(H3N2))] &gt;gb|ABD15615.1| matrix protein 1 [Influenza A virus (A/New York/504/1998(H3N2))] &gt;gb|ABD15637.1| matrix protein 1 [Influenza A virus (A/New York/550/1998(H3N2))] &gt;gb|ABD59887.1| M1 [Influenza A virus (A/TW/872/02(H3N2))] &gt;gb|ABD94823.1| matrix protein 1 [Influenza A virus (A/New York/536/1998(H3N2))] &gt;gb|ABE73098.1| matrix protein 1 [Influenza A virus (A/Moscow/10/1999(H3N2))] &gt;gb|ABG37374.1| matrix protein 1 [Influenza A virus (A/Waikato/1/2000(H3N2))] &gt;gb|ABJ16588.1| matrix protein 1 [Influenza A virus (A/New South Wales/4/1999(H3N2))] &gt;gb|ABR20721.1| matrix protein 1 [Influenza A virus (A/Berlin/199/99(H3N2))] &gt;gb|ABR20729.1| matrix protein 1 [Influenza A virus (A/Mecklenburg-Vorpommern/9/99(H3N2))] &gt;gb|ABY16758.1| matrix protein M1 [Influenza A virus (A/swine/Guangdong/164/06(H3N2))] &gt;gb|ABY16759.1| matrix protein M1 [Influenza A virus (A/swine/Guangdong/165/06(H3N2))] &gt;gb|ABY16760.1| matrix protein M1 [Influenza A virus (A/swine/Guangdong/166/06(H3N2))] &gt;gb|ACC60425.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK41114/1997(H3N2))] &gt;gb|ACC60427.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK41222/1997(H3N2))] &gt;gb|ACC60429.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK41459/1997(H3N2))] &gt;gb|ACC60433.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK41507/1997(H3N2))] &gt;gb|ACC60435.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK41757/1997(H3N2))] &gt;gb|ACC60439.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK4391/1997(H3N2))] &gt;gb|ACC60449.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10186/1998(H3N2))] &gt;gb|ACC60451.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10216/1998(H3N2))] &gt;gb|ACC60455.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10537/1998(H3N2))] &gt;gb|ACC60457.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10554/1998(H3N2))] &gt;gb|ACC60459.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10632/1998(H3N2))] &gt;gb|ACC60461.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10660/1998(H3N2))] &gt;gb|ACC60463.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10756/1998(H3N2))] &gt;gb|ACC60465.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10954/1998(H3N2))] &gt;gb|ACC60467.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10958/1998(H3N2))] &gt;gb|ACC60469.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10960/1998(H3N2))] &gt;gb|ACC60475.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK17603/1998(H3N2))] &gt;gb|ACC60477.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK17643/1998(H3N2))] &gt;gb|ACC60479.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK17697/1998(H3N2))] &gt;gb|ACC60481.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK17704/1998(H3N2))] &gt;gb|ACC60483.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK17707/1998(H3N2))] &gt;gb|ACC60485.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK17872/1998(H3N2))] &gt;gb|ACC60487.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK18036/1998(H3N2))] &gt;gb|ACC60491.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK18218/1998(H3N2))] &gt;gb|ACC60493.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK18230/1998(H3N2))] &gt;gb|ACC60495.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK18351/1998(H3N2))] &gt;gb|ACC60499.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK18610/1998(H3N2))] &gt;gb|ACC60501.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK18886/1998(H3N2))] &gt;gb|ACC60503.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK19579/1998(H3N2))] &gt;gb|ACC60505.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK50552/1998(H3N2))] &gt;gb|ACC60507.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK50722/1998(H3N2))] &gt;gb|ACC60509.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10100/1999(H3N2))] &gt;gb|ACC60511.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10132/1999(H3N2))] &gt;gb|ACC60513.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10133/1999(H3N2))] &gt;gb|ACC60515.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK10151/1999(H3N2))] &gt;gb|ACC60517.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK11163/1999(H3N2))] &gt;gb|ACC60519.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK11230/1999(H3N2))] &gt;gb|ACC60521.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK11237/1999(H3N2))] &gt;gb|ACC60523.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK11241/1999(H3N2))] &gt;gb|ACC60525.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK11255/1999(H3N2))] &gt;gb|ACC60527.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK12312/1999(H3N2))] &gt;gb|ACC60529.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK12572/1999(H3N2))] &gt;gb|ACC60531.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK12580/1999(H3N2))] &gt;gb|ACC60533.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK12897/1999(H3N2))] &gt;gb|ACC60535.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK13763/1999(H3N2))] &gt;gb|ACC60537.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK14627/1999(H3N2))] &gt;gb|ACC60539.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK14672/1999(H3N2))] &gt;gb|ACC60541.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK14875/1999(H3N2))] &gt;gb|ACC60543.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK30314/1999(H3N2))] &gt;gb|ACC60545.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK30419/1999(H3N2))] &gt;gb|ACC60547.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK30423/1999(H3N2))] &gt;gb|ACC60551.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK31421/1999(H3N2))] &gt;gb|ACC60553.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK31448/1999(H3N2))] &gt;gb|ACC60555.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK31490/1999(H3N2))] &gt;gb|ACC60557.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK31510/1999(H3N2))] &gt;gb|ACC60559.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK32796/1999(H3N2))] &gt;gb|ACC60589.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK22072/2000(H3N2))] &gt;gb|ACC60595.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK22162/2000(H3N2))] &gt;gb|ACC60601.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK26846/2000(H3N2))] &gt;gb|ACC60603.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK26907/2000(H3N2))] &gt;gb|ACC60605.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK26969/2000(H3N2))] &gt;gb|ACC60607.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK26980/2000(H3N2))] &gt;gb|ACC60609.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK27157/2000(H3N2))] &gt;gb|ACC60611.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK27183/2000(H3N2))] &gt;gb|ACC60613.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK27348/2000(H3N2))] &gt;gb|ACC60615.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK27374/2000(H3N2))] &gt;gb|ACC60617.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK28038/2000(H3N2))] &gt;gb|ACC60619.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK28040/2000(H3N2))] &gt;gb|ACC60621.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK28044/2000(H3N2))] &gt;gb|ACC60623.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK28278/2000(H3N2))] &gt;gb|ACC60625.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK28501/2000(H3N2))] &gt;gb|ACC60631.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK13048/2001(H3N2))] &gt;gb|ACC60635.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK13510/2001(H3N2))] &gt;gb|ACC60647.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK21734/2001(H3N2))] &gt;gb|ACC60651.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK21932/2001(H3N2))] &gt;gb|ACC60655.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK22888/2001(H3N2))] &gt;gb|ACC60657.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24510/2001(H3N2))] &gt;gb|ACC60659.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24749/2001(H3N2))] &gt;gb|ACC60661.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24760/2001(H3N2))] &gt;gb|ACC60663.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24825/2001(H3N2))] &gt;gb|ACC60665.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24882/2001(H3N2))] &gt;gb|ACC60667.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24985/2001(H3N2))] &gt;gb|ACC60669.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK33316/2001(H3N2))] &gt;gb|ACC60671.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK33406/2001(H3N2))] &gt;gb|ACC60673.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK33416/2001(H3N2))] &gt;gb|ACC60675.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK33418/2001(H3N2))] &gt;gb|ACC60677.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK34114/2001(H3N2))] &gt;gb|ACC60679.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK50080/2001(H3N2))] &gt;gb|ACC60681.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK51424/2001(H3N2))] &gt;gb|ACC60683.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK51431/2001(H3N2))] &gt;gb|ACC60685.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK51490/2001(H3N2))] &gt;gb|ACC60687.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK5250/2002(H3N2))] &gt;gb|ACC60689.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK5251/2002(H3N2))] &gt;gb|ACC60691.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK5296/2002(H3N2))] &gt;gb|ACC60701.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK13278/2002(H3N2))] &gt;gb|ACC60705.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK21713/2002(H3N2))] &gt;gb|ACC60707.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK21742/2002(H3N2))] &gt;gb|ACC60713.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK23113/2002(H3N2))] &gt;gb|ACC60715.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK23162/2002(H3N2))] &gt;gb|ACC60717.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK23180/2002(H3N2))] &gt;gb|ACC60721.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24054/2002(H3N2))] &gt;gb|ACC60723.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK24114/2002(H3N2))] &gt;gb|ACC60729.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK33079/2002(H3N2))] &gt;gb|ACC60753.1| matrix protein 1 [Influenza A virus (A/Hong Kong/CUHK5627/2003(H3N2))] &gt;gb|ACH69598.1| matrix protein 1 [Influenza A virus (A/swine/Guangdong/04/2005(H3N2))] &gt;gb|ACH69609.1| matrix protein 1 [Influenza A virus (A/swine/Guangdong/03/2005(H3N2))] &gt;gb|ACH69620.1| matrix protein 1 [Influenza A virus (A/swine/Guangdong/02/2005(H3N2))] &gt;gb|ACH69652.1| matrix protein 1 [Influenza A virus (A/swine/Guangxi/1/2004(H3N2))] &gt;gb|ACO95260.1| matrix protein 1 [Influenza A virus (A/Sydney/5/1997(H3N2))] &gt;gb|ACY06389.1| matrix protein 1 [Influenza A virus (A/swine/Guangdong/7/2006(H3N2))] &gt;gb|ACY06391.1| matrix protein 1 [Influenza A virus (A/swine/Fujian/43/2007(H3N2))] &gt;gb|AEI54370.1| matrix protein 1 [Influenza A virus (A/New Jersey/NHRC0001/2005(H3N2))] &gt;gb|AEX35220.1| matrix protein 1 [Influenza A virus (A/HaNoi/1766/2001(H3N2))] &gt;gb|AEX35429.1| matrix protein 1 [Influenza A virus (A/HaNoi/BM544/2004(H3N2))] &gt;gb|AFG72769.1| matrix protein 1 [Influenza A virus (A/Netherlands/414/1998(H3N2))] &gt;gb|AFG72780.1| matrix protein 1 [Influenza A virus (A/Netherlands/427/1998(H3N2))] &gt;gb|AFH00528.1| matrix protein 1 [Influenza A virus (A/Auckland/10/1997(H3N2))] &gt;gb|AFH00539.1| matrix protein 1 [Influenza A virus (A/Netherlands/300/1997(H3N2))] &gt;gb|AFH00550.1| matrix protein 1 [Influenza A virus (A/Netherlands/462/1998(H3N2))] &gt;gb|AFJ74428.1| matrix protein 1 [Influenza A virus (A/Malaysia/10816/1999(H3N2))] &gt;gb|AFJ74482.1| matrix protein 1 [Influenza A virus (A/Malaysia/13328/1999(H3N2))] &gt;gb|AFJ74493.1| matrix protein 1 [Influenza A virus (A/Malaysia/13329/1999(H3N2))] &gt;gb|AFJ74504.1| matrix protein 1 [Influenza A virus (A/Malaysia/14590/2000(H3N2))] &gt;gb|AFJ74526.1| matrix protein 1 [Influenza A virus (A/Malaysia/17276/1998(H3N2))] &gt;gb|AFJ74536.1| matrix protein 1 [Influenza A virus (A/Malaysia/13381/1999(H3N2))] &gt;gb|AFJ74677.1| matrix protein 1 [Influenza A virus (A/Malaysia/23582/2002(mixed))] &gt;gb|AFJ77496.1| matrix protein 1 [Influenza A virus (A/Malaysia/10877/1999(H3N2))] &gt;gb|AFJ77518.1| matrix protein 1 [Influenza A virus (A/Malaysia/10997/1999(H3N2))] &gt;gb|AFJ77540.1| matrix protein 1 [Influenza A virus (A/Malaysia/12132/1999(H3N2))] &gt;gb|AFJ77639.1| matrix protein 1 [Influenza A virus (A/Malaysia/13094/1999(H3N2))] &gt;gb|AFJ77650.1| matrix protein 1 [Influenza A virus (A/Malaysia/13246/1999(H3N2))] &gt;gb|AFJ77661.1| matrix protein 1 [Influenza A virus (A/Malaysia/17230/1998(H3N2))] &gt;gb|AFJ77672.1| matrix protein 1 [Influenza A virus (A/Malaysia/17332/1998(H3N2))] &gt;gb|AFJ77683.1| matrix protein 1 [Influenza A virus (A/Malaysia/17392/1998(H3N2))] &gt;gb|AFJ77705.1| matrix protein 1 [Influenza A virus (A/Malaysia/10759/1999(H3N2))] &gt;gb|AFJ78321.1| matrix protein 1 [Influenza A virus (A/Malaysia/12106/1999(H3N2))] &gt;gb|AFR11195.1| matrix protein 1 [Influenza A virus (A/swine/Guangdong/L22/2010(H3N2))] &gt;gb|AGI01312.1| matrix protein 1 [Influenza A virus (A/Taiwan/1338/1997(H3N2))] &gt;gb|AGI01316.1| matrix protein 1 [Influenza A virus (A/Taiwan/287/1998(H3N2))] &gt;gb|AGI01318.1| matrix protein 1 [Influenza A virus (A/Taiwan/317/1998(H3N2))] &gt;gb|AGI01320.1| matrix protein 1 [Influenza A virus (A/Taiwan/365/1999(H3N2))] &gt;gb|AGI01322.1| matrix protein 1 [Influenza A virus (A/Taiwan/429/1999(H3N2))] &gt;gb|AGI01324.1| matrix protein 1 [Influenza A virus (A/Taiwan/511/1999(H3N2))] &gt;gb|AGI01326.1| matrix protein 1 [Influenza A virus (A/Taiwan/263/2000(H3N2))] &gt;gb|AGI01328.1| matrix protein 1 [Influenza A virus (A/Taiwan/431/2000(H3N2))] &gt;gb|AGI01330.1| matrix protein 1 [Influenza A virus (A/Taiwan/55/2001(H3N2))] &gt;gb|AGI01334.1| matrix protein 1 [Influenza A virus (A/Taiwan/160/2001(H3N2))] &gt;gb|AGI01354.1| matrix protein 1 [Influenza A virus (A/Taiwan1149/1992(H3N2))] &gt;gb|AHH00859.1| matrix protein 1 [Influenza A virus (A/canine/Guangxi/L1/2013(H3N2))] &gt;gb|AHH00874.1| matrix protein 1 [Influenza A virus (A/canine/Guangxi/L2/2013(H3N2))] &gt;dbj|BAF57506.1| matrix protein 1 [Influenza A virus (A/Hanoi/184/2002(H3N2))] &gt;dbj|BAF57510.1| matrix protein 1 [Influenza A virus (A/Hanoi/190/2002(H3N2))] &gt;dbj|BAF57513.1| matrix protein 1 [Influenza A virus (A/Hanoi/197/2002(H3N2))] &gt;dbj|BAF57517.1| matrix protein 1 [Influenza A virus (A/Hanoi/209/2002(H3N2))] &gt;dbj|BAF57520.1| matrix protein 1 [Influenza A virus (A/Hanoi/235/2002(H3N2))] &gt;dbj|BAF57524.1| matrix protein 1 [Influenza A virus (A/Hanoi/1872/2002(H3N2))]</Hit_def>
+  <Hit_accession>AAK70433</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>5.95932e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>96</Hit_num>
+  <Hit_id>gb|ACO53754.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Cambodia/P105/2005(H3N2))] &gt;gb|ACO53762.1| matrix protein 1, partial [Influenza A virus (A/Cambodia/Q153/2006(H3N2))] &gt;gb|ACO53766.1| matrix protein 1, partial [Influenza A virus (A/Cambodia/Q191/2006(H3N2))]</Hit_def>
+  <Hit_accession>ACO53754</Hit_accession>
+  <Hit_len>232</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>6.0041e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>183</Hsp_hit-from>
+      <Hsp_hit-to>232</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>97</Hit_num>
+  <Hit_id>gb|ACQ77602.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/swine/Guangdong/Z5/2003(H3N2))]</Hit_def>
+  <Hit_accession>ACQ77602</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>6.02363e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>98</Hit_num>
+  <Hit_id>gb|AGI01310.1|</Hit_id>
+  <Hit_def>matrix protein 1 [Influenza A virus (A/Taiwan/1335/1997(H3N2))]</Hit_def>
+  <Hit_accession>AGI01310</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>6.02363e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>203</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>99</Hit_num>
+  <Hit_id>gb|ASB32348.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/California/NHRC_FDX110050/2017(H3N2))] &gt;gb|ASB32372.1| matrix protein 1, partial [Influenza A virus (A/California/NHRC_SAR10481N/2017(H3N2))]</Hit_def>
+  <Hit_accession>ASB32348</Hit_accession>
+  <Hit_len>226</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>6.0343e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>177</Hsp_hit-from>
+      <Hsp_hit-to>226</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>100</Hit_num>
+  <Hit_id>gb|ACO53772.1|</Hit_id>
+  <Hit_def>matrix protein 1, partial [Influenza A virus (A/Cambodia/Q342/2006(H3N2))] &gt;gb|AHZ65541.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C3798-1/2012(H3N2))] &gt;gb|AHZ65543.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C9969-2/2013(H3N2))] &gt;gb|AHZ65545.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C0982-3/2013(H3N2))] &gt;gb|AHZ65547.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C0587-4/2013(H3N2))] &gt;gb|AHZ65549.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C8073-5/2013(H3N2))] &gt;gb|AHZ65551.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C5314-6/2013(H3N2))] &gt;gb|AHZ65553.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C3849-7/2013(H3N2))] &gt;gb|AHZ65555.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C6633-8/2013(H3N2))] &gt;gb|AHZ65557.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C7065-9/2013(H3N2))] &gt;gb|AHZ65559.1| matrix protein 1, partial [Influenza A virus (A/Ontario/C8308-10/2013(H3N2))]</Hit_def>
+  <Hit_accession>ACO53772</Hit_accession>
+  <Hit_len>230</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.375</Hsp_bit-score>
+      <Hsp_score>259</Hsp_score>
+      <Hsp_evalue>6.05898e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>181</Hsp_hit-from>
+      <Hsp_hit-to>230</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>MEIASQARQMVQAMRAVGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_qseq>
+      <Hsp_hseq>MEIASQARQMVQAMRAIGTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_hseq>
+      <Hsp_midline>MEIASQARQMVQAMRA+GTHPSSSTGLRDDLLENLQTYQKRMGVQMQRFK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>510729908</Statistics_db-num>
+      <Statistics_db-len>1580073862</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
