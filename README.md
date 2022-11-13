@@ -2,7 +2,7 @@
 This project aims to analyze and compare the genomes of Influenza A Virus and Sars COV 2 using
 python and its libraries. Influenza virus A and Sars COV 2 were chosen as samples for this study
 because both cause similar symptoms upon infection. This project aims to compare the sequences of
-both these viruses and see if any similarities exist between the two. The basis of comparison in this
+both these viruses and see if any similarities exist. The basis of comparison in this
 study are :
 
   • A, U, C, and G content
@@ -28,9 +28,9 @@ study are :
     
   • Repeated patterns of length 20 (Kmers)
   
-    ◦ Patterns of length 20 are found in the Influenza and Sars COV 2 sequences and then any matches are reported.
+    ◦ Patterns of length 20 are found in the Influenza and Sars COV 2 sequences, and any matches are reported.
     
-Another objective of this project is to locate open reading frames in the forward and reverse strands
-of both viruses. The open reading frames in the forward and reverse strands are locared and then
-translated. After obatinong the protein sequences, BLASTP is performed to identify similar
+Another objective of this project is to locate open reading frames in both viruses' forward and reverse strands
+. The open reading frames in the forward and reverse strands are located and then
+translated. After obtaining the protein sequences, BLASTP is performed to identify similar
 sequences in the NCBI database.
